@@ -1,6 +1,6 @@
 import React from 'react';
 import { SafeAreaView, StyleSheet } from 'react-native';
-import FlashCard from '../components/Card';
+import FlashCard from '../components/FlashCard';
 
 const styles = StyleSheet.create({
   container: {
