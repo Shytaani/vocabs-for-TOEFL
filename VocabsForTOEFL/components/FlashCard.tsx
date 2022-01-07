@@ -12,7 +12,7 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     marginHorizontal: 20,
     paddingHorizontal: 10,
-    backgroundColor: 'antiquewhite',
+    backgroundColor: 'lightskyblue',
   },
   cardFront: {
     position: 'absolute',
