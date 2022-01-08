@@ -1,4 +1,4 @@
-import {Card} from '../types/Word';
+import { Card } from '../types/Card';
 import data from '../assets/card-contents.json';
 
 export function getWords(): Card[] {
