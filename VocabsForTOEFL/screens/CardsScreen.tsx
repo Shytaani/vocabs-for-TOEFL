@@ -1,6 +1,7 @@
 import React from 'react';
 import { SafeAreaView, StyleSheet } from 'react-native';
-import FlashCard from '../components/FlashCard';
+import Deck from '../components/Deck';
+import { getWords } from '../services/CardsService';
 
 const styles = StyleSheet.create({
   container: {
@@ -13,7 +14,7 @@ const styles = StyleSheet.create({
 export default function CardsScreen() {
   return (
     <SafeAreaView style={styles.container}>
-      <FlashCard id={0} />
+      <Deck cards={getWords()}/>
     </SafeAreaView>
   );
 }
