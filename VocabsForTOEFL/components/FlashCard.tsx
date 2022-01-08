@@ -1,14 +1,15 @@
 import React, { useRef } from 'react';
 import { Animated, FlatList, Pressable, StyleSheet } from 'react-native';
 import { Text } from 'react-native-elements';
-import { getWord } from '../services/CardsService';
-import { Card } from '../types/Word';
+import { Card } from '../types/Card';
 
 const styles = StyleSheet.create({
   card: {
     height: 500,
     width: 350,
     flexDirection: 'column',
+    borderStyle: 'solid',
+    borderWidth: 1,
     borderRadius: 8,
     marginHorizontal: 20,
     paddingHorizontal: 10,
@@ -36,7 +37,7 @@ const styles = StyleSheet.create({
   },
 });
 
-export default function FlashCard({ id }: { id: number }) {
+export default function FlashCard({ card }: { card: Card }) {
   const flipAnim = useRef(new Animated.Value(0)).current;
   let flipRotation: number = 0;
   flipAnim.addListener(({ value }: { value: number }) => flipRotation = value);
@@ -74,24 +75,22 @@ export default function FlashCard({ id }: { id: number }) {
     }).start();
   };
 
-  const word: Card = getWord(id);
-
   return (
     <Pressable onPress={() => flipRotation ? flipToBack() : flipToFront()}>
       <Animated.View style={[styles.card, styles.cardFront, frontFlipStyle]}>
-        <Text h1={true} style={styles.word}>{word.word}</Text>
+        <Text h1={true} style={styles.word}>{card.word}</Text>
       </Animated.View>
       <Animated.View style={[styles.card, styles.cardBack, backFlipStyle]}>
-        <Text h1={true} style={styles.word}>{word.word}</Text>
+        <Text h1={true} style={styles.word}>{card.word}</Text>
         <FlatList
-          data={word.definitions}
+          data={card.definitions}
           renderItem={({ item: definition }) => <Text h4={true}>{definition}</Text>}
           keyExtractor={(_, i) => i.toString()}
           ListHeaderComponent={() => <Text h2={true}>Definition</Text>}
           ListHeaderComponentStyle={styles.header}
         />
         <FlatList
-          data={word.sentences}
+          data={card.sentences}
           renderItem={({ item: sentence }) => <Text style={styles.sentence}>{sentence}</Text>}
           keyExtractor={(_, i) => i.toString()}
           ListHeaderComponent={() => <Text h2={true}>Sentence</Text>}
