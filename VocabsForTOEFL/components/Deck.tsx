@@ -1,0 +1,102 @@
+import React, { useRef, useState } from 'react';
+import { Animated, Dimensions, View } from 'react-native';
+import { HandlerStateChangeEvent, PanGestureHandler } from 'react-native-gesture-handler';
+import { Card } from '../types/Card';
+import FlashCard from './FlashCard';
+
+export default function Deck({ cards }: { cards: Card[] }) {
+  const first: number = 0;
+  const last: number = 326;
+
+  const [id, setId] = useState<number>(first);
+
+  const getNextCard: () => void = () => {
+    if (id < last) {
+      setId(id + 1);
+    } else {
+      setId(first);
+    }
+  };
+
+  const position: Animated.ValueXY = useRef(new Animated.ValueXY()).current;
+  let positionXVal: number = 0;
+  position.addListener(({ x, y }) => positionXVal = x);
+
+  const handlePanGestureEvent: () => void = Animated.event(
+    [
+      {
+        nativeEvent: {
+          translationX: position.x,
+          translationY: position.y,
+        },
+      },
+    ],
+    { useNativeDriver: true }
+  );
+
+  const screenWidth: number = Dimensions.get('window').width;
+  const swipeThreshold: number = screenWidth * 0.25;
+  enum DIRECTION { LEFT = 'left', RIGHT = 'right' }
+
+  const forceSwipeLeft: () => void = () => forceSwipe(DIRECTION.LEFT);
+  const forceSwipeRight: () => void = () => forceSwipe(DIRECTION.RIGHT);
+  const forceSwipe: (direction: DIRECTION) => void = (direction: DIRECTION) => {
+    const x = direction === DIRECTION.RIGHT ? screenWidth : -screenWidth;
+    Animated.timing(position, {
+      toValue: {x, y: 0},
+      duration: 300,
+      useNativeDriver: true,
+    }).start(() => onSwipeComplete());
+  };
+  const onSwipeComplete: () => void = () => {
+    position.setValue({ x: 0, y: 0 });
+    getNextCard();
+  };
+  const resetPosition: () => void = () => {
+    Animated.spring(position, {
+      toValue: { x: 0, y: 0 },
+      useNativeDriver: true,
+    }).start();
+  };
+
+  const onPanGestureRelease: (event: HandlerStateChangeEvent) => void = (event) => {
+    if (positionXVal > swipeThreshold) {
+      forceSwipeRight();
+    } else if (positionXVal < -swipeThreshold) {
+      forceSwipeLeft();
+    } else {
+      resetPosition();
+    }
+  };
+
+  return (
+    <>
+      {cards.map((card: Card, i: number) => {
+        if (i < id) {
+          return null;
+        }
+        if (i === id) {
+          return (
+            <PanGestureHandler key={card.word} onGestureEvent={handlePanGestureEvent} onEnded={onPanGestureRelease}>
+              <Animated.View style={{
+            transform: [
+              { translateX: position.x },
+              { translateY: position.y },
+            ],
+          }}>
+                <FlashCard card={card} />
+              </Animated.View>
+            </PanGestureHandler>
+          );
+        }
+        if ( i > id) {
+          return (
+            <View key={card.word} style={{ position: 'absolute' }}>
+              <FlashCard card={card} />
+            </View>
+          );
+        }
+      }).reverse()}
+    </>
+  );
+}
