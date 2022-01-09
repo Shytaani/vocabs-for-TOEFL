@@ -1,8 +1,24 @@
 import React, { useRef, useState } from 'react';
-import { Animated, Dimensions, View } from 'react-native';
+import { Animated, Dimensions, GestureResponderEvent, StyleSheet, View } from 'react-native';
+import { Button } from 'react-native-elements';
 import { HandlerStateChangeEvent, PanGestureHandler } from 'react-native-gesture-handler';
 import { Card } from '../types/Card';
 import FlashCard from './FlashCard';
+
+const styles = StyleSheet.create({
+  remainingCard: {
+    position: 'absolute',
+    top: 2,
+    left: 2,
+  },
+  buttonContainer: {
+    width: 200,
+    marginBottom: 20,
+  },
+  button: {
+    height: 50,
+  },
+});
 
 export default function Deck({ cards }: { cards: Card[] }) {
   const first: number = 0;
@@ -69,34 +85,50 @@ export default function Deck({ cards }: { cards: Card[] }) {
     }
   };
 
+  const resetDeck: (event: GestureResponderEvent) => void = (event) => {
+    setId(first);
+  };
+
   return (
     <>
-      {cards.map((card: Card, i: number) => {
-        if (i < id) {
-          return null;
-        }
-        if (i === id) {
-          return (
-            <PanGestureHandler key={card.word} onGestureEvent={handlePanGestureEvent} onEnded={onPanGestureRelease}>
-              <Animated.View style={{
-            transform: [
-              { translateX: position.x },
-              { translateY: position.y },
-            ],
-          }}>
+      <View>
+        {cards.map((card: Card, i: number) => {
+          if (i < id) {
+            return null;
+          }
+          if (i === id) {
+            return (
+              <PanGestureHandler
+                key={card.word}
+                onGestureEvent={handlePanGestureEvent}
+                onEnded={onPanGestureRelease}
+              >
+                <Animated.View style={{
+                  transform: [
+                    { translateX: position.x },
+                    { translateY: position.y },
+                  ],
+                }}>
+                  <FlashCard card={card} />
+                </Animated.View>
+              </PanGestureHandler>
+            );
+          }
+          if (i > id) {
+            return (
+              <View key={card.word} style={styles.remainingCard}>
                 <FlashCard card={card} />
-              </Animated.View>
-            </PanGestureHandler>
-          );
-        }
-        if ( i > id) {
-          return (
-            <View key={card.word} style={{ position: 'absolute' }}>
-              <FlashCard card={card} />
-            </View>
-          );
-        }
-      }).reverse()}
+              </View>
+            );
+          }
+        }).reverse()}
+      </View>
+      <Button
+        title="Reset"
+        containerStyle={styles.buttonContainer}
+        buttonStyle={styles.button}
+        onPress={resetDeck}
+      />
     </>
   );
 }
