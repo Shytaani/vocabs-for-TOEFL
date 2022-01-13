@@ -1,7 +1,8 @@
-import React, { useRef, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { Animated, Dimensions, GestureResponderEvent, StyleSheet, View } from 'react-native';
 import { Button } from 'react-native-elements';
 import { HandlerStateChangeEvent, PanGestureHandler } from 'react-native-gesture-handler';
+import { getCurrentWordId, saveCurrentWordId } from '../services/CardsService';
 import { Card } from '../types/Card';
 import FlashCard from './FlashCard';
 
@@ -26,9 +27,24 @@ export default function Deck({ cards }: { cards: Card[] }) {
 
   const [id, setId] = useState<number>(first);
 
+  useEffect(() => {
+    const fetchCardId = async () => {
+      const current: number = await getCurrentWordId();
+      setId(current);
+    };
+    fetchCardId();
+  }, []);
+
+  useEffect(() => {
+    const saveCardId = async () => {
+      await saveCurrentWordId(id);
+    };
+    saveCardId();
+  }, [id]);
+
   const getNextCard: () => void = () => {
     if (id < last) {
-      setId(id + 1);
+      setId((prevState: number) => prevState + 1);
     } else {
       setId(first);
     }
