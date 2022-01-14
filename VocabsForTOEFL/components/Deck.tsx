@@ -109,7 +109,7 @@ export default function Deck({ cards }: { cards: Card[] }) {
     <>
       <View>
         {cards.map((card: Card, i: number) => {
-          if (i < id) {
+          if (i < id || i > (id + 1)) {
             return null;
           }
           if (i === id) {
@@ -130,7 +130,7 @@ export default function Deck({ cards }: { cards: Card[] }) {
               </PanGestureHandler>
             );
           }
-          if (i > id) {
+          if (i === (id + 1)) {
             return (
               <View key={card.word} style={styles.remainingCard}>
                 <FlashCard card={card} />
