@@ -1,20 +1,20 @@
 import { Card } from '../types/Card';
-import data from '../assets/card-contents.json';
+import cards from '../assets/card-contents.json';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
-export function getWords(): Card[] {
-  return data;
+export function getCards(): Card[] {
+  return cards;
 }
 
-export function getWord(id: number): Card {
-  return data[id];
+export function getCard(id: number): Card {
+  return cards[id];
 }
 
-export async function saveCurrentWordId(id: number): Promise<void> {
+export async function saveCurrentCardId(id: number): Promise<void> {
   await AsyncStorage.setItem('current', id.toString());
 }
 
-export async function getCurrentWordId(): Promise<number> {
+export async function getCurrentCardId(): Promise<number> {
   const id = await AsyncStorage.getItem('current');
   if (id === null) {
     return 0;

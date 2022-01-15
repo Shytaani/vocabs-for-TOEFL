@@ -2,7 +2,7 @@ import React from 'react';
 import { SafeAreaView, StyleSheet } from 'react-native';
 import { Header } from 'react-native-elements';
 import Deck from '../components/Deck';
-import { getWords } from '../services/CardsService';
+import { getCards } from '../services/CardsService';
 
 const styles = StyleSheet.create({
   container: {
@@ -21,7 +21,7 @@ export default function CardsScreen() {
   return (
     <SafeAreaView style={styles.container}>
       <Header centerComponent={{ text: 'Vocabs for TOEFL', style: styles.header }} />
-      <Deck cards={getWords()}/>
+      <Deck cards={getCards()}/>
     </SafeAreaView>
   );
 }
