@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from 'react';
 import { Animated, Dimensions, GestureResponderEvent, StyleSheet, View } from 'react-native';
 import { Button } from 'react-native-elements';
 import { HandlerStateChangeEvent, PanGestureHandler } from 'react-native-gesture-handler';
-import { getCurrentWordId, saveCurrentWordId } from '../services/CardsService';
+import { getCurrentCardId, saveCurrentCardId } from '../services/CardsService';
 import { Card } from '../types/Card';
 import FlashCard from './FlashCard';
 
@@ -29,7 +29,7 @@ export default function Deck({ cards }: { cards: Card[] }) {
 
   useEffect(() => {
     const fetchCardId = async () => {
-      const current: number = await getCurrentWordId();
+      const current: number = await getCurrentCardId();
       setId(current);
     };
     fetchCardId();
@@ -37,7 +37,7 @@ export default function Deck({ cards }: { cards: Card[] }) {
 
   useEffect(() => {
     const saveCardId = async () => {
-      await saveCurrentWordId(id);
+      await saveCurrentCardId(id);
     };
     saveCardId();
   }, [id]);
