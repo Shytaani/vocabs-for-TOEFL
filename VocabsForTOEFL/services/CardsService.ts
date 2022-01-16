@@ -7,7 +7,11 @@ export function getCards(): Card[] {
 }
 
 export function getCard(id: number): Card {
-  return cards[id];
+  const result = cards.find(card => card.id === id);
+  if (result === undefined) {
+    return cards[0];
+  }
+  return result;
 }
 
 export async function saveCurrentCardId(id: number): Promise<void> {
@@ -17,7 +21,7 @@ export async function saveCurrentCardId(id: number): Promise<void> {
 export async function getCurrentCardId(): Promise<number> {
   const id = await AsyncStorage.getItem('current');
   if (id === null) {
-    return 0;
+    return 1;
   }
   return Number.parseInt(id, 10);
 }

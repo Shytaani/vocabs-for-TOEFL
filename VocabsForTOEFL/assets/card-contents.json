@@ -1,105 +1,166 @@
 [
   {
+    "id": 1,
     "word": "Abundant",
-    "definitions": ["Present in large quantities."],
+    "definitions": [
+      "Present in large quantities."
+    ],
     "sentences": [
       "Living close to a lake means we have an abundant supply of water."
     ]
   },
   {
+    "id": 2,
     "word": "Accumulate",
-    "definitions": ["To gradually collect."],
-    "sentences": ["Each fall, leaves accumulate in our driveway."]
-  },
-  {
-    "word": "Accurate",
-    "definitions": ["Correct; free from errors."],
+    "definitions": [
+      "To gradually collect."
+    ],
     "sentences": [
-      "Make sure your address is accurate before submitting your online order."
+      "Each fall, leaves accumulate in our driveway."
     ]
   },
   {
+    "id": 3,
+    "word": "Accurate",
+    "definitions": [
+      "Correct; free from errors."
+    ],
+    "sentences": [
+      "Make sure your address is accurate before submittFing your online order."
+    ]
+  },
+  {
+    "id": 4,
     "word": "Accustomed",
-    "definitions": ["Used to something."],
+    "definitions": [
+      "Used to something."
+    ],
     "sentences": [
       "Having 8AM classes means I’m accustomed to getting up early."
     ]
   },
   {
+    "id": 5,
     "word": "Acquire",
-    "definitions": ["To come into possession of."],
+    "definitions": [
+      "To come into possession of."
+    ],
     "sentences": [
       "When my grandmother died, I acquired her cookbook collection."
     ]
   },
   {
+    "id": 6,
     "word": "Adamant",
-    "definitions": ["Refusing to change an opinion."],
-    "sentences": ["The defendant was adamant that he was innocent."]
+    "definitions": [
+      "Refusing to change an opinion."
+    ],
+    "sentences": [
+      "The defendant was adamant that he was innocent."
+    ]
   },
   {
+    "id": 7,
     "word": "Adequate",
-    "definitions": ["Enough to suit your needs."],
-    "sentences": ["Our house isn’t big, but it’s adequate for the two of us."]
+    "definitions": [
+      "Enough to suit your needs."
+    ],
+    "sentences": [
+      "Our house isn’t big, but it’s adequate for the two of us."
+    ]
   },
   {
+    "id": 8,
     "word": "Adjacent",
-    "definitions": ["Close to or next to."],
-    "sentences": ["The park is adjacent to the school."]
+    "definitions": [
+      "Close to or next to."
+    ],
+    "sentences": [
+      "The park is adjacent to the school."
+    ]
   },
   {
+    "id": 9,
     "word": "Adjust",
-    "definitions": ["To change something so it serves its purpose better."],
+    "definitions": [
+      "To change something so it serves its purpose better."
+    ],
     "sentences": [
       "The bike seat may be too high; you’ll probably need to adjust it."
     ]
   },
   {
+    "id": 10,
     "word": "Advantage",
-    "definitions": ["Something that makes it easier to achieve success."],
-    "sentences": ["His height gives him an advantage in basketball."]
+    "definitions": [
+      "Something that makes it easier to achieve success."
+    ],
+    "sentences": [
+      "His height gives him an advantage in basketball."
+    ]
   },
   {
+    "id": 11,
     "word": "Advocate",
-    "definitions": ["To publicly support."],
-    "sentences": ["My aunt is a major advocate for women’s’ rights."]
+    "definitions": [
+      "To publicly support."
+    ],
+    "sentences": [
+      "My aunt is a major advocate for women’s’ rights."
+    ]
   },
   {
+    "id": 12,
     "word": "Adverse",
-    "definitions": ["Unfavorable; against one’s desires."],
+    "definitions": [
+      "Unfavorable; against one’s desires."
+    ],
     "sentences": [
       "I had an adverse reaction to my medication and had to stop taking it."
     ]
   },
   {
+    "id": 13,
     "word": "Aggregate",
-    "definitions": ["To combine."],
+    "definitions": [
+      "To combine."
+    ],
     "sentences": [
       "We should aggregate our resources to share them more easily."
     ]
   },
   {
+    "id": 14,
     "word": "Aggressive",
-    "definitions": ["Assertive and pushy."],
+    "definitions": [
+      "Assertive and pushy."
+    ],
     "sentences": [
       "The salesperson was very aggressive when trying to get us to buy the television."
     ]
   },
   {
+    "id": 15,
     "word": "Allocate",
-    "definitions": ["To put aside for a specific purpose."],
+    "definitions": [
+      "To put aside for a specific purpose."
+    ],
     "sentences": [
       "The village needs to allocate funds for building the new school."
     ]
   },
   {
+    "id": 16,
     "word": "Alternative",
-    "definitions": ["Another option or choice."],
+    "definitions": [
+      "Another option or choice."
+    ],
     "sentences": [
       "If the ATM is broken, an alternative solution is to stop by the bank."
     ]
   },
   {
+    "id": 17,
     "word": "Amateur",
     "definitions": [
       "Someone who is inexperienced or not highly skilled in a particular area."
@@ -109,6 +170,7 @@
     ]
   },
   {
+    "id": 18,
     "word": "Ambiguous",
     "definitions": [
       "Having several potential meanings; unclear and difficult to understand."
@@ -118,266 +180,427 @@
     ]
   },
   {
+    "id": 19,
     "word": "Ambitious",
-    "definitions": ["Having large goals."],
+    "definitions": [
+      "Having large goals."
+    ],
     "sentences": [
       "My son is very ambitious and hopes to be a millionaire by the time he’s thirty."
     ]
   },
   {
+    "id": 20,
     "word": "Amend",
-    "definitions": ["To change for the better; to improve."],
-    "sentences": ["I believe we should amend our country’s tax laws."]
+    "definitions": [
+      "To change for the better; to improve."
+    ],
+    "sentences": [
+      "I believe we should amend our country’s tax laws."
+    ]
   },
   {
+    "id": 21,
     "word": "Ample",
-    "definitions": ["Plentiful."],
-    "sentences": ["Our new apartment has ample space for the two of us."]
+    "definitions": [
+      "Plentiful."
+    ],
+    "sentences": [
+      "Our new apartment has ample space for the two of us."
+    ]
   },
   {
+    "id": 22,
     "word": "Anomaly",
-    "definitions": ["Deviation from the norm."],
+    "definitions": [
+      "Deviation from the norm."
+    ],
     "sentences": [
       "The basketball player is the team’s best free thrower, so his missing both shots was an anomaly."
     ]
   },
   {
+    "id": 23,
     "word": "Annual",
-    "definitions": ["Occurring yearly."],
-    "sentences": ["The annual company barbeque takes place every August."]
+    "definitions": [
+      "Occurring yearly."
+    ],
+    "sentences": [
+      "The annual company barbeque takes place every August."
+    ]
   },
   {
+    "id": 24,
     "word": "Antagonize",
-    "definitions": ["To tease or be hostile towards a person or group."],
+    "definitions": [
+      "To tease or be hostile towards a person or group."
+    ],
     "sentences": [
       "The boy loves to antagonize his little sister by pulling her hair."
     ]
   },
   {
+    "id": 25,
     "word": "Attitude",
-    "definitions": ["Manner or feeling."],
+    "definitions": [
+      "Manner or feeling."
+    ],
     "sentences": [
       "After she got grounded, the teenager had a bad attitude for the rest of the day."
     ]
   },
   {
+    "id": 26,
     "word": "Attribute",
-    "definitions": ["To give credit."],
+    "definitions": [
+      "To give credit."
+    ],
     "sentences": [
       "Be sure to attribute credit to your sources when writing a research paper."
     ]
   },
   {
+    "id": 27,
     "word": "Arbitrary",
-    "definitions": ["Based on a whim or random decision."],
-    "sentences": ["Flipping a coin is an arbitrary way to make a decision."]
+    "definitions": [
+      "Based on a whim or random decision."
+    ],
+    "sentences": [
+      "Flipping a coin is an arbitrary way to make a decision."
+    ]
   },
   {
+    "id": 28,
     "word": "Arduous",
-    "definitions": ["Requiring a lot of effort."],
+    "definitions": [
+      "Requiring a lot of effort."
+    ],
     "sentences": [
       "After you cross the bridge, there’s an arduous walk up the hill."
     ]
   },
   {
+    "id": 29,
     "word": "Assuage",
-    "definitions": ["To lessen a negative feeling."],
-    "sentences": ["The mother assuaged her child’s fear of the dark."]
+    "definitions": [
+      "To lessen a negative feeling."
+    ],
+    "sentences": [
+      "The mother assuaged her child’s fear of the dark."
+    ]
   },
   {
+    "id": 30,
     "word": "Assume",
-    "definitions": ["To suppose without solid proof."],
-    "sentences": ["I assumed he was rich because he worked as a lawyer."]
+    "definitions": [
+      "To suppose without solid proof."
+    ],
+    "sentences": [
+      "I assumed he was rich because he worked as a lawyer."
+    ]
   },
   {
+    "id": 31,
     "word": "Augment",
-    "definitions": ["To increase or make larger."],
+    "definitions": [
+      "To increase or make larger."
+    ],
     "sentences": [
       "She augments her regular salary by babysitting on the weekends."
     ]
   },
   {
+    "id": 32,
     "word": "Benefit",
-    "definitions": ["Something positive or advantageous."],
+    "definitions": [
+      "Something positive or advantageous."
+    ],
     "sentences": [
       "A benefit of doing homework on Friday is that your weekend will be free."
     ]
   },
   {
+    "id": 33,
     "word": "Berate",
-    "definitions": ["To scold."],
+    "definitions": [
+      "To scold."
+    ],
     "sentences": [
       "Our neighbor berated us after we broke his window playing baseball."
     ]
   },
   {
+    "id": 34,
     "word": "Bestow",
-    "definitions": ["To give as a gift."],
-    "sentences": ["The medal was bestowed upon him by the president."]
+    "definitions": [
+      "To give as a gift."
+    ],
+    "sentences": [
+      "The medal was bestowed upon him by the president."
+    ]
   },
   {
+    "id": 35,
     "word": "Boast",
-    "definitions": ["To brag or talk with excessive pride."],
-    "sentences": ["He always boasts of his talents after he wins a game."]
+    "definitions": [
+      "To brag or talk with excessive pride."
+    ],
+    "sentences": [
+      "He always boasts of his talents after he wins a game."
+    ]
   },
   {
+    "id": 36,
     "word": "Boost",
-    "definitions": ["To help raise or increase something."],
+    "definitions": [
+      "To help raise or increase something."
+    ],
     "sentences": [
       "I gave him a pep talk to boost his self-esteem before his speech."
     ]
   },
   {
+    "id": 37,
     "word": "Brash",
-    "definitions": ["Rude and tactless."],
-    "sentences": ["The brash man always asked inappropriate questions."]
+    "definitions": [
+      "Rude and tactless."
+    ],
+    "sentences": [
+      "The brash man always asked inappropriate questions."
+    ]
   },
   {
+    "id": 38,
     "word": "Brief",
-    "definitions": ["Short (in terms of time)."],
+    "definitions": [
+      "Short (in terms of time)."
+    ],
     "sentences": [
       "It will only have a brief meeting, so you’ll still have plenty of time for lunch."
     ]
   },
   {
+    "id": 39,
     "word": "Brusque",
-    "definitions": ["Abrupt to the point of rudeness."],
+    "definitions": [
+      "Abrupt to the point of rudeness."
+    ],
     "sentences": [
       "After being away for so long, I expected more than her brusque greeting."
     ]
   },
   {
+    "id": 40,
     "word": "Cacophony",
-    "definitions": ["A harsh, unpleasant mixture of noise."],
-    "sentences": ["The cuckoo clock shop lets off a cacophony every hour."]
+    "definitions": [
+      "A harsh, unpleasant mixture of noise."
+    ],
+    "sentences": [
+      "The cuckoo clock shop lets off a cacophony every hour."
+    ]
   },
   {
+    "id": 41,
     "word": "Cease",
-    "definitions": ["To stop."],
-    "sentences": ["I wish they would cease arguing."]
+    "definitions": [
+      "To stop."
+    ],
+    "sentences": [
+      "I wish they would cease arguing."
+    ]
   },
   {
+    "id": 42,
     "word": "Censure",
-    "definitions": ["To express strong disapproval."],
-    "sentences": ["Every parent in our district censured the education cuts."]
+    "definitions": [
+      "To express strong disapproval."
+    ],
+    "sentences": [
+      "Every parent in our district censured the education cuts."
+    ]
   },
   {
+    "id": 43,
     "word": "Chronological",
-    "definitions": ["Arranged in order of time or date."],
+    "definitions": [
+      "Arranged in order of time or date."
+    ],
     "sentences": [
       "Put the historical events in chronological order to make them easier to study."
     ]
   },
   {
+    "id": 44,
     "word": "Clarify",
-    "definitions": ["To make clear; to remove confusion."],
+    "definitions": [
+      "To make clear; to remove confusion."
+    ],
     "sentences": [
       "I didn’t understand the instructions, so I asked the teacher to clarify them."
     ]
   },
   {
+    "id": 45,
     "word": "Coalesce",
-    "definitions": ["To combine or grow together."],
-    "sentences": ["The people on the street eventually coalesced into a group."]
+    "definitions": [
+      "To combine or grow together."
+    ],
+    "sentences": [
+      "The people on the street eventually coalesced into a group."
+    ]
   },
   {
+    "id": 46,
     "word": "Coerce",
-    "definitions": ["To force someone to do something against their will."],
-    "sentences": ["The young boy was coerced into stealing by his friends."]
+    "definitions": [
+      "To force someone to do something against their will."
+    ],
+    "sentences": [
+      "The young boy was coerced into stealing by his friends."
+    ]
   },
   {
+    "id": 47,
     "word": "Cognizant",
-    "definitions": ["Being aware or having knowledge of something."],
+    "definitions": [
+      "Being aware or having knowledge of something."
+    ],
     "sentences": [
       "Before mountain climbing, you need to be cognizant of the risks."
     ]
   },
   {
+    "id": 48,
     "word": "Cohesion",
-    "definitions": ["Uniting; becoming one."],
+    "definitions": [
+      "Uniting; becoming one."
+    ],
     "sentences": [
       "Water molecules show strong cohesion when they stick together."
     ]
   },
   {
+    "id": 49,
     "word": "Coincide",
-    "definitions": ["To occur at the same time."],
-    "sentences": ["This year Thanksgiving coincided with my birthday."]
+    "definitions": [
+      "To occur at the same time."
+    ],
+    "sentences": [
+      "This year Thanksgiving coincided with my birthday."
+    ]
   },
   {
+    "id": 50,
     "word": "Collapse",
-    "definitions": ["To fall down or break down."],
+    "definitions": [
+      "To fall down or break down."
+    ],
     "sentences": [
       "The old building finally collapsed, leaving nothing but a pile of rubble."
     ]
   },
   {
+    "id": 51,
     "word": "Collide",
-    "definitions": ["To hit one another with a forceful impact."],
-    "sentences": ["The two cars collided on the freeway."]
+    "definitions": [
+      "To hit one another with a forceful impact."
+    ],
+    "sentences": [
+      "The two cars collided on the freeway."
+    ]
   },
   {
+    "id": 52,
     "word": "Commitment",
-    "definitions": ["Dedication to a cause or activity."],
+    "definitions": [
+      "Dedication to a cause or activity."
+    ],
     "sentences": [
       "Joining a school play is a big commitment. You’ll need to practice every evening."
     ]
   },
   {
+    "id": 53,
     "word": "Community",
-    "definitions": ["A group of people who live or work together."],
+    "definitions": [
+      "A group of people who live or work together."
+    ],
     "sentences": [
       "The Chinese community in my city is hosting a New Year celebration next week."
     ]
   },
   {
+    "id": 54,
     "word": "Conceal",
-    "definitions": ["To hide."],
-    "sentences": ["The mountains concealed the ocean from view."]
+    "definitions": [
+      "To hide."
+    ],
+    "sentences": [
+      "The mountains concealed the ocean from view."
+    ]
   },
   {
+    "id": 55,
     "word": "Concur",
-    "definitions": ["To agree."],
+    "definitions": [
+      "To agree."
+    ],
     "sentences": [
       "He believes women should be paid as much as men, and I concur."
     ]
   },
   {
+    "id": 56,
     "word": "Conflict",
-    "definitions": ["A disagreement or fight."],
+    "definitions": [
+      "A disagreement or fight."
+    ],
     "sentences": [
       "The conflict between the two families has been going on for generations."
     ]
   },
   {
+    "id": 57,
     "word": "Constrain",
-    "definitions": ["To restrict or repress."],
+    "definitions": [
+      "To restrict or repress."
+    ],
     "sentences": [
       "You should move your plant to a bigger pot, otherwise you’ll constrain its roots."
     ]
   },
   {
+    "id": 58,
     "word": "Contemplate",
-    "definitions": ["To consider thoughtfully."],
+    "definitions": [
+      "To consider thoughtfully."
+    ],
     "sentences": [
       "I spend a lot of time contemplating what career I want to have."
     ]
   },
   {
+    "id": 59,
     "word": "Continuously",
-    "definitions": ["To go on without stopping."],
+    "definitions": [
+      "To go on without stopping."
+    ],
     "sentences": [
       "My neighbors have been continuously blasting their music since last night."
     ]
   },
   {
+    "id": 60,
     "word": "Contradict",
-    "definitions": ["To give the opposite opinion."],
+    "definitions": [
+      "To give the opposite opinion."
+    ],
     "sentences": [
       "I told the employees that sales were down, but my boss contradicted me and said sales were actually up."
     ]
   },
   {
+    "id": 61,
     "word": "Contribute",
     "definitions": [
       "To give something (usually money or time) to a common fund or cause."
@@ -387,71 +610,117 @@
     ]
   },
   {
+    "id": 62,
     "word": "Convey",
-    "definitions": ["To make known."],
-    "sentences": ["I’ve conveyed my interest in working for that company."]
+    "definitions": [
+      "To make known."
+    ],
+    "sentences": [
+      "I’ve conveyed my interest in working for that company."
+    ]
   },
   {
+    "id": 63,
     "word": "Copious",
-    "definitions": ["Abundant."],
+    "definitions": [
+      "Abundant."
+    ],
     "sentences": [
       "He always takes copious notes during class to study later on."
     ]
   },
   {
+    "id": 64,
     "word": "Core",
-    "definitions": ["Central; of main importance."],
+    "definitions": [
+      "Central; of main importance."
+    ],
     "sentences": [
       "Although many employees left the company, the core leadership remained."
     ]
   },
   {
+    "id": 65,
     "word": "Corrode",
-    "definitions": ["To gradually wear away."],
-    "sentences": ["The rust corroded the paint on my car."]
+    "definitions": [
+      "To gradually wear away."
+    ],
+    "sentences": [
+      "The rust corroded the paint on my car."
+    ]
   },
   {
+    "id": 66,
     "word": "Cumbersome",
-    "definitions": ["Burdensome; clumsy"],
+    "definitions": [
+      "Burdensome; clumsy"
+    ],
     "sentences": [
       "Trying to carry four grocery bags at once was very cumbersome."
     ]
   },
   {
+    "id": 67,
     "word": "Curriculum",
-    "definitions": ["The courses given by a school or program."],
+    "definitions": [
+      "The courses given by a school or program."
+    ],
     "sentences": [
       "Our school needs to add more music courses to its curriculum."
     ]
   },
   {
+    "id": 68,
     "word": "Data",
-    "definitions": ["Facts, statistics, or pieces of information."],
+    "definitions": [
+      "Facts, statistics, or pieces of information."
+    ],
     "sentences": [
       "The data from these graphs show that yearly temperatures are increasing."
     ]
   },
   {
+    "id": 69,
     "word": "Decay",
-    "definitions": ["To decline in health or excellence."],
-    "sentences": ["After the tree died, its wood began to decay."]
+    "definitions": [
+      "To decline in health or excellence."
+    ],
+    "sentences": [
+      "After the tree died, its wood began to decay."
+    ]
   },
   {
+    "id": 70,
     "word": "Deceive",
-    "definitions": ["To trick or mislead."],
-    "sentences": ["He deceived me by pretending to be a millionaire."]
+    "definitions": [
+      "To trick or mislead."
+    ],
+    "sentences": [
+      "He deceived me by pretending to be a millionaire."
+    ]
   },
   {
+    "id": 71,
     "word": "Decipher",
-    "definitions": ["To find the meaning of."],
-    "sentences": ["The spy deciphered the secret code."]
+    "definitions": [
+      "To find the meaning of."
+    ],
+    "sentences": [
+      "The spy deciphered the secret code."
+    ]
   },
   {
+    "id": 72,
     "word": "Declaration",
-    "definitions": ["An announcement."],
-    "sentences": ["He made a declaration to the office that he was quitting."]
+    "definitions": [
+      "An announcement."
+    ],
+    "sentences": [
+      "He made a declaration to the office that he was quitting."
+    ]
   },
   {
+    "id": 73,
     "word": "Decline",
     "definitions": [
       "1. To politely refuse.",
@@ -463,75 +732,137 @@
     ]
   },
   {
+    "id": 74,
     "word": "Degrade",
-    "definitions": ["To lower in quality."],
-    "sentences": ["My attempt at cake degraded into a crumbly mess."]
+    "definitions": [
+      "To lower in quality."
+    ],
+    "sentences": [
+      "My attempt at cake degraded into a crumbly mess."
+    ]
   },
   {
+    "id": 75,
     "word": "Demonstrate",
-    "definitions": ["To show."],
-    "sentences": ["Let me demonstrate the proper way of throwing a football."]
+    "definitions": [
+      "To show."
+    ],
+    "sentences": [
+      "Let me demonstrate the proper way of throwing a football."
+    ]
   },
   {
+    "id": 76,
     "word": "Deny",
-    "definitions": ["To state that something isn’t true."],
-    "sentences": ["He denied being the robber."]
+    "definitions": [
+      "To state that something isn’t true."
+    ],
+    "sentences": [
+      "He denied being the robber."
+    ]
   },
   {
+    "id": 77,
     "word": "Deplete",
-    "definitions": ["To significantly decrease."],
-    "sentences": ["Your shopping sprees have depleted my savings."]
+    "definitions": [
+      "To significantly decrease."
+    ],
+    "sentences": [
+      "Your shopping sprees have depleted my savings."
+    ]
   },
   {
+    "id": 78,
     "word": "Deposit",
-    "definitions": ["To deliver and leave an item."],
-    "sentences": ["Please deposit your books in the bin outside the library."]
+    "definitions": [
+      "To deliver and leave an item."
+    ],
+    "sentences": [
+      "Please deposit your books in the bin outside the library."
+    ]
   },
   {
+    "id": 79,
     "word": "Desirable",
-    "definitions": ["Worth having or wanting."],
-    "sentences": ["Bravery is a desirable trait for firefighters to have."]
+    "definitions": [
+      "Worth having or wanting."
+    ],
+    "sentences": [
+      "Bravery is a desirable trait for firefighters to have."
+    ]
   },
   {
+    "id": 80,
     "word": "Despise",
-    "definitions": ["To hate."],
-    "sentences": ["I despise early morning classes."]
+    "definitions": [
+      "To hate."
+    ],
+    "sentences": [
+      "I despise early morning classes."
+    ]
   },
   {
+    "id": 81,
     "word": "Detect",
-    "definitions": ["To locate something."],
-    "sentences": ["The police dog detected the missing child’s scent."]
+    "definitions": [
+      "To locate something."
+    ],
+    "sentences": [
+      "The police dog detected the missing child’s scent."
+    ]
   },
   {
+    "id": 82,
     "word": "Deter",
-    "definitions": ["To discourage."],
-    "sentences": ["The warning signs on the house deterred trespassers."]
+    "definitions": [
+      "To discourage."
+    ],
+    "sentences": [
+      "The warning signs on the house deterred trespassers."
+    ]
   },
   {
+    "id": 83,
     "word": "Deviate",
-    "definitions": ["To differ from the norm."],
+    "definitions": [
+      "To differ from the norm."
+    ],
     "sentences": [
       "I decided to deviate from my normal route home and took a shortcut."
     ]
   },
   {
+    "id": 84,
     "word": "Devise",
-    "definitions": ["To plan or create."],
-    "sentences": ["The coach devised a plan for winning the game."]
+    "definitions": [
+      "To plan or create."
+    ],
+    "sentences": [
+      "The coach devised a plan for winning the game."
+    ]
   },
   {
+    "id": 85,
     "word": "Diatribe",
-    "definitions": ["A sharp criticism or attack."],
-    "sentences": ["The politician went into a diatribe against her opponent."]
+    "definitions": [
+      "A sharp criticism or attack."
+    ],
+    "sentences": [
+      "The politician went into a diatribe against her opponent."
+    ]
   },
   {
+    "id": 86,
     "word": "Digress",
-    "definitions": ["To wander from the main subject."],
+    "definitions": [
+      "To wander from the main subject."
+    ],
     "sentences": [
       "The teacher digressed from the lecture to discuss the weather."
     ]
   },
   {
+    "id": 87,
     "word": "Dilemma",
     "definitions": [
       "A situation where one must choose between two difficult choices."
@@ -541,526 +872,907 @@
     ]
   },
   {
+    "id": 88,
     "word": "Diminish",
-    "definitions": ["To shrink or reduce."],
-    "sentences": ["Sprinkle baking soda on the carpet to diminish the stain."]
+    "definitions": [
+      "To shrink or reduce."
+    ],
+    "sentences": [
+      "Sprinkle baking soda on the carpet to diminish the stain."
+    ]
   },
   {
+    "id": 89,
     "word": "Dispose",
-    "definitions": ["To get rid of."],
-    "sentences": ["I need to dispose of this trash."]
+    "definitions": [
+      "To get rid of."
+    ],
+    "sentences": [
+      "I need to dispose of this trash."
+    ]
   },
   {
+    "id": 90,
     "word": "Disproportionate",
-    "definitions": ["Too large or small when compared to something else."],
-    "sentences": ["The piece of pie I received was disproportionately small."]
+    "definitions": [
+      "Too large or small when compared to something else."
+    ],
+    "sentences": [
+      "The piece of pie I received was disproportionately small."
+    ]
   },
   {
+    "id": 91,
     "word": "Disrupt",
-    "definitions": ["To interrupt by causing a disturbance."],
-    "sentences": ["The protesters disrupted the politician’s speech."]
+    "definitions": [
+      "To interrupt by causing a disturbance."
+    ],
+    "sentences": [
+      "The protesters disrupted the politician’s speech."
+    ]
   },
   {
+    "id": 92,
     "word": "Distort",
-    "definitions": ["To misrepresent."],
-    "sentences": ["The camera filter distorted the image."]
+    "definitions": [
+      "To misrepresent."
+    ],
+    "sentences": [
+      "The camera filter distorted the image."
+    ]
   },
   {
+    "id": 93,
     "word": "Distribute",
-    "definitions": ["To give portions of something."],
-    "sentences": ["Distribute the materials evenly among the class."]
+    "definitions": [
+      "To give portions of something."
+    ],
+    "sentences": [
+      "Distribute the materials evenly among the class."
+    ]
   },
   {
+    "id": 94,
     "word": "Diverse",
-    "definitions": ["Showing a lot of variety."],
-    "sentences": ["This city has a very diverse population."]
+    "definitions": [
+      "Showing a lot of variety."
+    ],
+    "sentences": [
+      "This city has a very diverse population."
+    ]
   },
   {
+    "id": 95,
     "word": "Divert",
-    "definitions": ["To cause a change of course."],
+    "definitions": [
+      "To cause a change of course."
+    ],
     "sentences": [
       "Because of the accident, the police had to divert traffic down a side street."
     ]
   },
   {
+    "id": 96,
     "word": "Dynamic",
-    "definitions": ["Constantly changing."],
+    "definitions": [
+      "Constantly changing."
+    ],
     "sentences": [
       "The theater has dynamic shows, so you never know what you’ll see."
     ]
   },
   {
+    "id": 97,
     "word": "Ease",
-    "definitions": ["To reduce unpleasantness or difficulty."],
-    "sentences": ["This prescription will ease your allergies."]
+    "definitions": [
+      "To reduce unpleasantness or difficulty."
+    ],
+    "sentences": [
+      "This prescription will ease your allergies."
+    ]
   },
   {
+    "id": 98,
     "word": "Efficient",
-    "definitions": ["Maximizing productivity."],
+    "definitions": [
+      "Maximizing productivity."
+    ],
     "sentences": [
       "Now that I’m following a schedule at work, I’m much more efficient."
     ]
   },
   {
+    "id": 99,
     "word": "Eliminate",
-    "definitions": ["To remove."],
+    "definitions": [
+      "To remove."
+    ],
     "sentences": [
       "Our team lost the match and was eliminated from the competition."
     ]
   },
   {
+    "id": 100,
     "word": "Elite",
-    "definitions": ["A select, above-average group."],
+    "definitions": [
+      "A select, above-average group."
+    ],
     "sentences": [
       "The elite detective team were also sent for when there were big crimes."
     ]
   },
   {
+    "id": 101,
     "word": "Eloquent",
-    "definitions": ["Moving speech or writing."],
-    "sentences": ["Her eloquent writing has gained her many fans."]
+    "definitions": [
+      "Moving speech or writing."
+    ],
+    "sentences": [
+      "Her eloquent writing has gained her many fans."
+    ]
   },
   {
+    "id": 102,
     "word": "Emphasize",
-    "definitions": ["To give special importance to when speaking or writing."],
-    "sentences": ["The teacher emphasized the due date of the project."]
+    "definitions": [
+      "To give special importance to when speaking or writing."
+    ],
+    "sentences": [
+      "The teacher emphasized the due date of the project."
+    ]
   },
   {
+    "id": 103,
     "word": "Endure",
-    "definitions": ["To suffer through something difficult with patience."],
-    "sentences": ["He has endured four knee operations so far."]
+    "definitions": [
+      "To suffer through something difficult with patience."
+    ],
+    "sentences": [
+      "He has endured four knee operations so far."
+    ]
   },
   {
+    "id": 104,
     "word": "Enhance",
-    "definitions": ["To intensify or magnify."],
-    "sentences": ["The falling snow enhanced the beauty of the small village."]
+    "definitions": [
+      "To intensify or magnify."
+    ],
+    "sentences": [
+      "The falling snow enhanced the beauty of the small village."
+    ]
   },
   {
+    "id": 105,
     "word": "Epitome",
-    "definitions": ["A perfect example of something."],
-    "sentences": ["The duchess is the epitome of class."]
+    "definitions": [
+      "A perfect example of something."
+    ],
+    "sentences": [
+      "The duchess is the epitome of class."
+    ]
   },
   {
+    "id": 106,
     "word": "Equivalent",
-    "definitions": ["Equal."],
-    "sentences": ["Twenty-four is equivalent to two dozen."]
+    "definitions": [
+      "Equal."
+    ],
+    "sentences": [
+      "Twenty-four is equivalent to two dozen."
+    ]
   },
   {
+    "id": 107,
     "word": "Erroneous",
-    "definitions": ["Incorrect."],
-    "sentences": ["He apologized for his erroneous statement."]
+    "definitions": [
+      "Incorrect."
+    ],
+    "sentences": [
+      "He apologized for his erroneous statement."
+    ]
   },
   {
+    "id": 108,
     "word": "Estimate",
-    "definitions": ["An approximate value."],
+    "definitions": [
+      "An approximate value."
+    ],
     "sentences": [
       "Try to get an estimate of the number of people attending the concert."
     ]
   },
   {
+    "id": 109,
     "word": "Evade",
-    "definitions": ["To avoid or escape."],
+    "definitions": [
+      "To avoid or escape."
+    ],
     "sentences": [
       "By hiding in the bathroom, we were able to evade the intruder."
     ]
   },
   {
+    "id": 110,
     "word": "Evaluate",
-    "definitions": ["To assess."],
+    "definitions": [
+      "To assess."
+    ],
     "sentences": [
       "At the end of the class, every student will evaluate how well the professor taught."
     ]
   },
   {
+    "id": 111,
     "word": "Evidence",
     "definitions": [
       "Facts or information that help prove or disprove something."
     ],
-    "sentences": ["These fossils are evidence of evolution."]
+    "sentences": [
+      "These fossils are evidence of evolution."
+    ]
   },
   {
+    "id": 112,
     "word": "Evolve",
-    "definitions": ["To gradually change."],
-    "sentences": ["The small school evolved into a world-class institution."]
+    "definitions": [
+      "To gradually change."
+    ],
+    "sentences": [
+      "The small school evolved into a world-class institution."
+    ]
   },
   {
+    "id": 113,
     "word": "Exemplary",
-    "definitions": ["Worthy of imitation."],
+    "definitions": [
+      "Worthy of imitation."
+    ],
     "sentences": [
       "She is an exemplary student, and you should copy her study habits."
     ]
   },
   {
+    "id": 114,
     "word": "Exclude",
-    "definitions": ["To leave out."],
-    "sentences": ["The young boy was excluded from his friends’ soccer game."]
+    "definitions": [
+      "To leave out."
+    ],
+    "sentences": [
+      "The young boy was excluded from his friends’ soccer game."
+    ]
   },
   {
+    "id": 115,
     "word": "Exclusive",
-    "definitions": ["Not admitting the majority."],
+    "definitions": [
+      "Not admitting the majority."
+    ],
     "sentences": [
       "We may not be able to get in since that club is very exclusive."
     ]
   },
   {
+    "id": 116,
     "word": "Expand",
-    "definitions": ["To increase in size."],
-    "sentences": ["Adding air to bike tires will cause them to expand."]
+    "definitions": [
+      "To increase in size."
+    ],
+    "sentences": [
+      "Adding air to bike tires will cause them to expand."
+    ]
   },
   {
+    "id": 117,
     "word": "Expertise",
-    "definitions": ["Expert knowledge or skill in a particular field."],
-    "sentences": ["The surgeon’s expertise is knee surgeries."]
+    "definitions": [
+      "Expert knowledge or skill in a particular field."
+    ],
+    "sentences": [
+      "The surgeon’s expertise is knee surgeries."
+    ]
   },
   {
+    "id": 118,
     "word": "Exploit",
-    "definitions": ["To use selfishly."],
+    "definitions": [
+      "To use selfishly."
+    ],
     "sentences": [
       "The company exploited its workers by making them work long hours."
     ]
   },
   {
+    "id": 119,
     "word": "Expose",
-    "definitions": ["To reveal or unmask."],
-    "sentences": ["The emails presented exposed the company’s corruption."]
+    "definitions": [
+      "To reveal or unmask."
+    ],
+    "sentences": [
+      "The emails presented exposed the company’s corruption."
+    ]
   },
   {
+    "id": 120,
     "word": "Extension",
-    "definitions": ["An act of making something longer."],
+    "definitions": [
+      "An act of making something longer."
+    ],
     "sentences": [
       "If you’re sick on the day the paper is due, the teacher may give you an extension on the due date."
     ]
   },
   {
+    "id": 121,
     "word": "Extract",
-    "definitions": ["To get or remove something."],
-    "sentences": ["The dentist extracted one of my teeth."]
+    "definitions": [
+      "To get or remove something."
+    ],
+    "sentences": [
+      "The dentist extracted one of my teeth."
+    ]
   },
   {
+    "id": 122,
     "word": "Famine",
-    "definitions": ["A time when there is an extreme lack of food."],
+    "definitions": [
+      "A time when there is an extreme lack of food."
+    ],
     "sentences": [
       "Millions of children in  Ethiopia died due to the famine there."
     ]
   },
   {
+    "id": 123,
     "word": "Feasible",
-    "definitions": ["Possible to do."],
+    "definitions": [
+      "Possible to do."
+    ],
     "sentences": [
       "This study plan you made for me sounds feasible, even with my work schedule."
     ]
   },
   {
+    "id": 124,
     "word": "Finite",
-    "definitions": ["Having an end or limits."],
-    "sentences": ["Remember that life is finite; you’re not immortal."]
+    "definitions": [
+      "Having an end or limits."
+    ],
+    "sentences": [
+      "Remember that life is finite; you’re not immortal."
+    ]
   },
   {
+    "id": 125,
     "word": "Flaw",
-    "definitions": ["A feature that ruins the perfection of something."],
+    "definitions": [
+      "A feature that ruins the perfection of something."
+    ],
     "sentences": [
       "I got the diamond for a reduced price since the stone had a flaw."
     ]
   },
   {
+    "id": 126,
     "word": "Fluctuate",
-    "definitions": ["To change continually."],
+    "definitions": [
+      "To change continually."
+    ],
     "sentences": [
       "I’m not sure what to wear since the temperature has been fluctuating so much."
     ]
   },
   {
+    "id": 127,
     "word": "Focus",
-    "definitions": ["The central point or idea."],
-    "sentences": ["The program is going to focus on environmental issues."]
+    "definitions": [
+      "The central point or idea."
+    ],
+    "sentences": [
+      "The program is going to focus on environmental issues."
+    ]
   },
   {
+    "id": 128,
     "word": "Fortify",
-    "definitions": ["To strengthen."],
+    "definitions": [
+      "To strengthen."
+    ],
     "sentences": [
       "The king decided to fortify the castle walls to protect them during attacks."
     ]
   },
   {
+    "id": 129,
     "word": "Framework",
-    "definitions": ["A skeletal structure designed to support something."],
+    "definitions": [
+      "A skeletal structure designed to support something."
+    ],
     "sentences": [
       "Skyscrapers must have a strong framework to support all the floors."
     ]
   },
   {
+    "id": 130,
     "word": "Frivolous",
-    "definitions": ["Unnecessary; of little importance"],
-    "sentences": ["You must stop spending your money on frivolous purchases."]
+    "definitions": [
+      "Unnecessary; of little importance"
+    ],
+    "sentences": [
+      "You must stop spending your money on frivolous purchases."
+    ]
   },
   {
+    "id": 131,
     "word": "Function",
-    "definitions": ["A purpose natural to a person or thing."],
-    "sentences": ["The function of petals is to attract insects to the plant."]
+    "definitions": [
+      "A purpose natural to a person or thing."
+    ],
+    "sentences": [
+      "The function of petals is to attract insects to the plant."
+    ]
   },
   {
+    "id": 132,
     "word": "Fundamental",
-    "definitions": ["Of primary importance."],
+    "definitions": [
+      "Of primary importance."
+    ],
     "sentences": [
       "Learning scales is fundamental to being a good piano player."
     ]
   },
   {
+    "id": 133,
     "word": "Gap",
-    "definitions": ["A space in between to objects."],
-    "sentences": ["Be careful to avoid the gap between the two steps."]
+    "definitions": [
+      "A space in between to objects."
+    ],
+    "sentences": [
+      "Be careful to avoid the gap between the two steps."
+    ]
   },
   {
+    "id": 134,
     "word": "Garbled",
-    "definitions": ["Communication that is distorted and unclear."],
+    "definitions": [
+      "Communication that is distorted and unclear."
+    ],
     "sentences": [
       "Our answering machine is so bad that people’s voices are always garbled."
     ]
   },
   {
+    "id": 135,
     "word": "Generate",
-    "definitions": ["To produce."],
-    "sentences": ["The fire generates heat, which keeps the room warm."]
+    "definitions": [
+      "To produce."
+    ],
+    "sentences": [
+      "The fire generates heat, which keeps the room warm."
+    ]
   },
   {
+    "id": 136,
     "word": "Grandiose",
-    "definitions": ["Pompous; overly important."],
+    "definitions": [
+      "Pompous; overly important."
+    ],
     "sentences": [
       "The actress had only one small part before she got grandiose ideas of her fame."
     ]
   },
   {
+    "id": 137,
     "word": "Hackneyed",
-    "definitions": ["Overused and unoriginal."],
-    "sentences": ["HIs poems contain many hackneyed phrases."]
+    "definitions": [
+      "Overused and unoriginal."
+    ],
+    "sentences": [
+      "HIs poems contain many hackneyed phrases."
+    ]
   },
   {
+    "id": 138,
     "word": "Haphazard",
-    "definitions": ["Lacking planning."],
-    "sentences": ["There was no schedule, so the event was very haphazard."]
+    "definitions": [
+      "Lacking planning."
+    ],
+    "sentences": [
+      "There was no schedule, so the event was very haphazard."
+    ]
   },
   {
+    "id": 139,
     "word": "Harsh",
-    "definitions": ["Not gentle; unpleasant."],
+    "definitions": [
+      "Not gentle; unpleasant."
+    ],
     "sentences": [
       "Her comments on my performance were very harsh and not kind at all."
     ]
   },
   {
+    "id": 140,
     "word": "Hasty",
-    "definitions": ["In a hurry."],
+    "definitions": [
+      "In a hurry."
+    ],
     "sentences": [
       "In order to avoid the police, the robbers made a hasty retreat."
     ]
   },
   {
+    "id": 141,
     "word": "Hazardous",
-    "definitions": ["Full of risk."],
-    "sentences": ["The nuclear reactor has a lot of hazardous waste."]
+    "definitions": [
+      "Full of risk."
+    ],
+    "sentences": [
+      "The nuclear reactor has a lot of hazardous waste."
+    ]
   },
   {
+    "id": 142,
     "word": "Hesitate",
-    "definitions": ["To pause, often due to reluctance."],
-    "sentences": ["She hesitated before entering the abandoned building."]
+    "definitions": [
+      "To pause, often due to reluctance."
+    ],
+    "sentences": [
+      "She hesitated before entering the abandoned building."
+    ]
   },
   {
+    "id": 143,
     "word": "Hierarchy",
-    "definitions": ["A ranking system."],
+    "definitions": [
+      "A ranking system."
+    ],
     "sentences": [
       "In the office hierarchy, the manager is higher than the associate."
     ]
   },
   {
+    "id": 144,
     "word": "Hindrance",
-    "definitions": ["Something that causes delay or resistance."],
+    "definitions": [
+      "Something that causes delay or resistance."
+    ],
     "sentences": [
       "Her hatred of public transportation is a hindrance when trying to get around New York City."
     ]
   },
   {
+    "id": 145,
     "word": "Hollow",
-    "definitions": ["Empty inside."],
-    "sentences": ["The dead tree is hollow."]
+    "definitions": [
+      "Empty inside."
+    ],
+    "sentences": [
+      "The dead tree is hollow."
+    ]
   },
   {
+    "id": 146,
     "word": "Horror",
-    "definitions": ["An intense feeling of fear."],
-    "sentences": ["The haunted house filled me with horror."]
+    "definitions": [
+      "An intense feeling of fear."
+    ],
+    "sentences": [
+      "The haunted house filled me with horror."
+    ]
   },
   {
+    "id": 147,
     "word": "Hostile",
-    "definitions": ["Extremely unfriendly."],
+    "definitions": [
+      "Extremely unfriendly."
+    ],
     "sentences": [
       "My ex-boyfriend’s new girlfriend was very hostile towards me."
     ]
   },
   {
+    "id": 148,
     "word": "Hypothesis",
-    "definitions": ["An unproven idea that attempts to explain something."],
+    "definitions": [
+      "An unproven idea that attempts to explain something."
+    ],
     "sentences": [
       "You’ll need to conduct an experiment to test your hypothesis."
     ]
   },
   {
+    "id": 149,
     "word": "Identical",
-    "definitions": ["Exactly the same."],
-    "sentences": ["The twins were completely identical."]
+    "definitions": [
+      "Exactly the same."
+    ],
+    "sentences": [
+      "The twins were completely identical."
+    ]
   },
   {
+    "id": 150,
     "word": "Illiterate",
-    "definitions": ["Unable to read."],
+    "definitions": [
+      "Unable to read."
+    ],
     "sentences": [
       "Because he’d never been able to attend school, the man was illiterate."
     ]
   },
   {
+    "id": 151,
     "word": "Illustrate",
-    "definitions": ["To explain by using an example."],
-    "sentences": ["The professor illustrated the lesson with a personal story."]
+    "definitions": [
+      "To explain by using an example."
+    ],
+    "sentences": [
+      "The professor illustrated the lesson with a personal story."
+    ]
   },
   {
+    "id": 152,
     "word": "Impact",
-    "definitions": ["Effect or influence."],
-    "sentences": ["His moving words had a large impact on me."]
+    "definitions": [
+      "Effect or influence."
+    ],
+    "sentences": [
+      "His moving words had a large impact on me."
+    ]
   },
   {
+    "id": 153,
     "word": "Impair",
-    "definitions": ["To worsen."],
-    "sentences": ["Drinking alcohol will impair your driving abilities."]
+    "definitions": [
+      "To worsen."
+    ],
+    "sentences": [
+      "Drinking alcohol will impair your driving abilities."
+    ]
   },
   {
+    "id": 154,
     "word": "Implement",
-    "definitions": ["To carry out."],
-    "sentences": ["We will implement the new schedule starting next semester."]
+    "definitions": [
+      "To carry out."
+    ],
+    "sentences": [
+      "We will implement the new schedule starting next semester."
+    ]
   },
   {
+    "id": 155,
     "word": "Imply",
-    "definitions": ["To strongly suggest."],
+    "definitions": [
+      "To strongly suggest."
+    ],
     "sentences": [
       "My mother implied that I was the one who forgot to take out the trash."
     ]
   },
   {
+    "id": 156,
     "word": "Impose",
-    "definitions": ["To force upon."],
-    "sentences": ["After the riots, the mayor imposed a curfew on the town."]
+    "definitions": [
+      "To force upon."
+    ],
+    "sentences": [
+      "After the riots, the mayor imposed a curfew on the town."
+    ]
   },
   {
+    "id": 157,
     "word": "Impoverish",
-    "definitions": ["To reduce to poverty."],
-    "sentences": ["These medical bills are going to impoverish me."]
+    "definitions": [
+      "To reduce to poverty."
+    ],
+    "sentences": [
+      "These medical bills are going to impoverish me."
+    ]
   },
   {
+    "id": 158,
     "word": "Incentive",
-    "definitions": ["A reason to do something."],
+    "definitions": [
+      "A reason to do something."
+    ],
     "sentences": [
       "I hate my job, but the big paychecks are a good incentive to stick with it."
     ]
   },
   {
+    "id": 159,
     "word": "Incessant",
-    "definitions": ["Continuing without pause."],
-    "sentences": ["I can’t sleep because of the dog’s incessant barking."]
+    "definitions": [
+      "Continuing without pause."
+    ],
+    "sentences": [
+      "I can’t sleep because of the dog’s incessant barking."
+    ]
   },
   {
+    "id": 160,
     "word": "Incidental",
-    "definitions": ["A minor part."],
+    "definitions": [
+      "A minor part."
+    ],
     "sentences": [
       "Don’t worry about your grade on this quiz; it’s only an incidental part of your grade."
     ]
   },
   {
+    "id": 161,
     "word": "Incite",
-    "definitions": ["To urge on."],
-    "sentences": ["The ringleader incited the soldiers to rebellion."]
+    "definitions": [
+      "To urge on."
+    ],
+    "sentences": [
+      "The ringleader incited the soldiers to rebellion."
+    ]
   },
   {
+    "id": 162,
     "word": "Inclination",
-    "definitions": ["A preference."],
-    "sentences": ["My inclination is to go to bed early."]
+    "definitions": [
+      "A preference."
+    ],
+    "sentences": [
+      "My inclination is to go to bed early."
+    ]
   },
   {
+    "id": 163,
     "word": "Incompetent",
-    "definitions": ["Incapable; lacking ability."],
-    "sentences": ["The incompetent worker was fired from his job."]
+    "definitions": [
+      "Incapable; lacking ability."
+    ],
+    "sentences": [
+      "The incompetent worker was fired from his job."
+    ]
   },
   {
+    "id": 164,
     "word": "Inconsistent",
-    "definitions": ["Changing randomly."],
-    "sentences": ["His pitching has been very inconsistent all season."]
+    "definitions": [
+      "Changing randomly."
+    ],
+    "sentences": [
+      "His pitching has been very inconsistent all season."
+    ]
   },
   {
+    "id": 165,
     "word": "Indefatigable",
-    "definitions": ["Untiring."],
-    "sentences": ["She is an indefatigable hiker and can walk all day."]
+    "definitions": [
+      "Untiring."
+    ],
+    "sentences": [
+      "She is an indefatigable hiker and can walk all day."
+    ]
   },
   {
+    "id": 166,
     "word": "Indisputable",
-    "definitions": ["Not able to be challenged."],
-    "sentences": ["She’s the indisputable star of the basketball team."]
+    "definitions": [
+      "Not able to be challenged."
+    ],
+    "sentences": [
+      "She’s the indisputable star of the basketball team."
+    ]
   },
   {
+    "id": 167,
     "word": "Ineffective",
-    "definitions": ["Not producing any major impact."],
-    "sentences": ["The drug was shown to be ineffective at curing cancer."]
+    "definitions": [
+      "Not producing any major impact."
+    ],
+    "sentences": [
+      "The drug was shown to be ineffective at curing cancer."
+    ]
   },
   {
+    "id": 168,
     "word": "Inevitable",
-    "definitions": ["Unable to be avoided."],
-    "sentences": ["Even if you’re healthy, death is inevitable in the end."]
+    "definitions": [
+      "Unable to be avoided."
+    ],
+    "sentences": [
+      "Even if you’re healthy, death is inevitable in the end."
+    ]
   },
   {
+    "id": 169,
     "word": "Infer",
-    "definitions": ["To guess based on evidence."],
-    "sentences": ["I inferred that she was annoyed based on her body language."]
+    "definitions": [
+      "To guess based on evidence."
+    ],
+    "sentences": [
+      "I inferred that she was annoyed based on her body language."
+    ]
   },
   {
+    "id": 170,
     "word": "Inflate",
-    "definitions": ["To increase in size."],
-    "sentences": ["Getting a promotion has really inflated his ego."]
+    "definitions": [
+      "To increase in size."
+    ],
+    "sentences": [
+      "Getting a promotion has really inflated his ego."
+    ]
   },
   {
+    "id": 171,
     "word": "Influence",
-    "definitions": ["The ability to have an impact of something."],
+    "definitions": [
+      "The ability to have an impact of something."
+    ],
     "sentences": [
       "The older sister has been a positive influence on her younger siblings."
     ]
   },
   {
+    "id": 172,
     "word": "Inhibit",
-    "definitions": ["To hinder or restrain."],
-    "sentences": ["This cleaning spray inhibits the growth of bacteria."]
+    "definitions": [
+      "To hinder or restrain."
+    ],
+    "sentences": [
+      "This cleaning spray inhibits the growth of bacteria."
+    ]
   },
   {
+    "id": 173,
     "word": "Initial",
-    "definitions": ["The first."],
-    "sentences": ["She was the initial president of the company."]
+    "definitions": [
+      "The first."
+    ],
+    "sentences": [
+      "She was the initial president of the company."
+    ]
   },
   {
+    "id": 174,
     "word": "Inquiry",
-    "definitions": ["An investigation to determine the truth."],
+    "definitions": [
+      "An investigation to determine the truth."
+    ],
     "sentences": [
       "Congress launched an inquiry after the senator was accused of taking bribes."
     ]
   },
   {
+    "id": 175,
     "word": "Integral",
-    "definitions": ["Necessary to complete the whole."],
-    "sentences": ["You can’t quit. You’re an integral part of this team."]
+    "definitions": [
+      "Necessary to complete the whole."
+    ],
+    "sentences": [
+      "You can’t quit. You’re an integral part of this team."
+    ]
   },
   {
+    "id": 176,
     "word": "Integrate",
-    "definitions": ["To combine."],
+    "definitions": [
+      "To combine."
+    ],
     "sentences": [
       "When making a cake, you need to fully integrate the wet and dry ingredients."
     ]
   },
   {
+    "id": 177,
     "word": "Interpret",
-    "definitions": ["To explain the meaning of something."],
-    "sentences": ["I need you to interpret this German speech for me."]
+    "definitions": [
+      "To explain the meaning of something."
+    ],
+    "sentences": [
+      "I need you to interpret this German speech for me."
+    ]
   },
   {
+    "id": 178,
     "word": "Intervene",
     "definitions": [
       "To come between people, objects, or an event and change what is happening."
@@ -1070,37 +1782,57 @@
     ]
   },
   {
+    "id": 179,
     "word": "Intrepid",
-    "definitions": ["Fearless."],
+    "definitions": [
+      "Fearless."
+    ],
     "sentences": [
       "The intrepid mountain climber reached the top of Mt. Everest."
     ]
   },
   {
+    "id": 180,
     "word": "Intricate",
-    "definitions": ["Highly detailed."],
-    "sentences": ["The pattern on this blanket is so intricate."]
+    "definitions": [
+      "Highly detailed."
+    ],
+    "sentences": [
+      "The pattern on this blanket is so intricate."
+    ]
   },
   {
+    "id": 181,
     "word": "Invasive",
-    "definitions": ["Intrusive."],
+    "definitions": [
+      "Intrusive."
+    ],
     "sentences": [
       "We found the stranger’s questions too personal and very invasive."
     ]
   },
   {
+    "id": 182,
     "word": "Investigate",
-    "definitions": ["To examine or study."],
-    "sentences": ["The police are going to investigate the crime scene."]
+    "definitions": [
+      "To examine or study."
+    ],
+    "sentences": [
+      "The police are going to investigate the crime scene."
+    ]
   },
   {
+    "id": 183,
     "word": "Irascible",
-    "definitions": ["Easy to anger."],
+    "definitions": [
+      "Easy to anger."
+    ],
     "sentences": [
       "Even though my grandfather seems irascible, he’s actually very loving."
     ]
   },
   {
+    "id": 184,
     "word": "Irony",
     "definitions": [
       "The use of words to give a meaning opposite to their literal meaning."
@@ -1110,425 +1842,697 @@
     ]
   },
   {
+    "id": 185,
     "word": "Irresolute",
-    "definitions": ["Uncertain."],
-    "sentences": ["Not sure which direction to go in, he stood irresolute."]
+    "definitions": [
+      "Uncertain."
+    ],
+    "sentences": [
+      "Not sure which direction to go in, he stood irresolute."
+    ]
   },
   {
+    "id": 186,
     "word": "Jargon",
-    "definitions": ["Words specific to a certain job or group."],
+    "definitions": [
+      "Words specific to a certain job or group."
+    ],
     "sentences": [
       "To be a successful doctor, you’ll need to learn a lot of medical jargon."
     ]
   },
   {
+    "id": 187,
     "word": "Jointly",
-    "definitions": ["Together."],
-    "sentences": ["The newlyweds jointly opened up a bank account."]
+    "definitions": [
+      "Together."
+    ],
+    "sentences": [
+      "The newlyweds jointly opened up a bank account."
+    ]
   },
   {
+    "id": 188,
     "word": "Knack",
-    "definitions": ["A special talent or skill."],
+    "definitions": [
+      "A special talent or skill."
+    ],
     "sentences": [
       "My brother has a real knack for solving tricky math problems."
     ]
   },
   {
+    "id": 189,
     "word": "Labor",
-    "definitions": ["Work or effort."],
-    "sentences": ["Building a house requires a lot of labor."]
+    "definitions": [
+      "Work or effort."
+    ],
+    "sentences": [
+      "Building a house requires a lot of labor."
+    ]
   },
   {
+    "id": 190,
     "word": "Lag",
-    "definitions": ["To fall behind."],
+    "definitions": [
+      "To fall behind."
+    ],
     "sentences": [
       "I stayed with the front group of runners for the first few miles, but after that I began to lag."
     ]
   },
   {
+    "id": 191,
     "word": "Lampoon",
-    "definitions": ["To mock or ridicule."],
-    "sentences": ["The cartoonist lampooned the president’s speech."]
+    "definitions": [
+      "To mock or ridicule."
+    ],
+    "sentences": [
+      "The cartoonist lampooned the president’s speech."
+    ]
   },
   {
+    "id": 192,
     "word": "Languish",
-    "definitions": ["To become weak; to be neglected."],
+    "definitions": [
+      "To become weak; to be neglected."
+    ],
     "sentences": [
       "During winter break, my plants languished since I was visiting my parents and couldn’t water them."
     ]
   },
   {
+    "id": 193,
     "word": "Lecture",
-    "definitions": ["A talk given to an audience."],
+    "definitions": [
+      "A talk given to an audience."
+    ],
     "sentences": [
       "The professor will give a 30 minute lecture before the quiz."
     ]
   },
   {
+    "id": 194,
     "word": "Leery",
-    "definitions": ["Wary."],
-    "sentences": ["I’m leery of taking the dark-looking shortcut."]
+    "definitions": [
+      "Wary."
+    ],
+    "sentences": [
+      "I’m leery of taking the dark-looking shortcut."
+    ]
   },
   {
+    "id": 195,
     "word": "Legitimate",
-    "definitions": ["Lawful."],
-    "sentences": ["The way he became mayor is completely legitimate."]
+    "definitions": [
+      "Lawful."
+    ],
+    "sentences": [
+      "The way he became mayor is completely legitimate."
+    ]
   },
   {
+    "id": 196,
     "word": "Lenient",
-    "definitions": ["Merciful; less harsh."],
+    "definitions": [
+      "Merciful; less harsh."
+    ],
     "sentences": [
       "The judge gave the criminal a lenient sentence due to his bad childhood."
     ]
   },
   {
+    "id": 197,
     "word": "Likely",
-    "definitions": ["Probable."],
+    "definitions": [
+      "Probable."
+    ],
     "sentences": [
       "I don’t have much homework, so it’s likely I’ll be able to go out tonight."
     ]
   },
   {
+    "id": 198,
     "word": "Ludicrous",
-    "definitions": ["Ridiculous."],
-    "sentences": ["His claims about me are absolutely ludicrous."]
+    "definitions": [
+      "Ridiculous."
+    ],
+    "sentences": [
+      "His claims about me are absolutely ludicrous."
+    ]
   },
   {
+    "id": 199,
     "word": "Maintain",
-    "definitions": ["To continue at the same level."],
-    "sentences": ["She has maintained the same weight since high school."]
+    "definitions": [
+      "To continue at the same level."
+    ],
+    "sentences": [
+      "She has maintained the same weight since high school."
+    ]
   },
   {
+    "id": 200,
     "word": "Major",
-    "definitions": ["Very important."],
-    "sentences": ["This test is a major part of your final grade."]
+    "definitions": [
+      "Very important."
+    ],
+    "sentences": [
+      "This test is a major part of your final grade."
+    ]
   },
   {
+    "id": 201,
     "word": "Manipulate",
-    "definitions": ["To influence, especially in an unfair way."],
-    "sentences": ["He tried to manipulate the results of the election."]
+    "definitions": [
+      "To influence, especially in an unfair way."
+    ],
+    "sentences": [
+      "He tried to manipulate the results of the election."
+    ]
   },
   {
+    "id": 202,
     "word": "Maximize",
-    "definitions": ["To increase to the greatest possible size."],
-    "sentences": ["The store’s goal this year is to maximize its profit."]
+    "definitions": [
+      "To increase to the greatest possible size."
+    ],
+    "sentences": [
+      "The store’s goal this year is to maximize its profit."
+    ]
   },
   {
+    "id": 203,
     "word": "Measure",
-    "definitions": ["To find the size and dimensions of something."],
-    "sentences": ["By measuring the tree, I found it was seven feet tall."]
+    "definitions": [
+      "To find the size and dimensions of something."
+    ],
+    "sentences": [
+      "By measuring the tree, I found it was seven feet tall."
+    ]
   },
   {
+    "id": 204,
     "word": "Mediocre",
-    "definitions": ["Ordinary, average."],
-    "sentences": ["The meal the chef made was only mediocre."]
+    "definitions": [
+      "Ordinary, average."
+    ],
+    "sentences": [
+      "The meal the chef made was only mediocre."
+    ]
   },
   {
+    "id": 205,
     "word": "Mend",
-    "definitions": ["To fix."],
-    "sentences": ["My mother will mend the hole in my shirt."]
+    "definitions": [
+      "To fix."
+    ],
+    "sentences": [
+      "My mother will mend the hole in my shirt."
+    ]
   },
   {
+    "id": 206,
     "word": "Method",
-    "definitions": ["A way of doing something."],
-    "sentences": ["Her method for making bread takes three days."]
+    "definitions": [
+      "A way of doing something."
+    ],
+    "sentences": [
+      "Her method for making bread takes three days."
+    ]
   },
   {
+    "id": 207,
     "word": "Migrate",
-    "definitions": ["To move from one place to another."],
-    "sentences": ["Every fall, the geese migrate to Florida."]
+    "definitions": [
+      "To move from one place to another."
+    ],
+    "sentences": [
+      "Every fall, the geese migrate to Florida."
+    ]
   },
   {
+    "id": 208,
     "word": "Minimum",
-    "definitions": ["The smallest or lowest amount possible."],
+    "definitions": [
+      "The smallest or lowest amount possible."
+    ],
     "sentences": [
       "You need to get a minimum of 70% on the test to pass the class."
     ]
   },
   {
+    "id": 209,
     "word": "Misleading",
-    "definitions": ["Giving the wrong idea."],
+    "definitions": [
+      "Giving the wrong idea."
+    ],
     "sentences": [
       "The advertisement for the weight loss pills is very misleading since studies have shown they’re ineffective."
     ]
   },
   {
+    "id": 210,
     "word": "Modify",
-    "definitions": ["To change."],
-    "sentences": ["I need to modify my style so it looks more professional."]
+    "definitions": [
+      "To change."
+    ],
+    "sentences": [
+      "I need to modify my style so it looks more professional."
+    ]
   },
   {
+    "id": 211,
     "word": "Morose",
-    "definitions": ["Gloomy, depressed."],
+    "definitions": [
+      "Gloomy, depressed."
+    ],
     "sentences": [
       "The boy was morose after hearing he didn’t make the football team."
     ]
   },
   {
+    "id": 212,
     "word": "Negligent",
-    "definitions": ["Lazy, neglectful."],
+    "definitions": [
+      "Lazy, neglectful."
+    ],
     "sentences": [
       "The negligent babysitter invited her friends over while the children were upstairs."
     ]
   },
   {
+    "id": 213,
     "word": "Nonchalant",
-    "definitions": ["Indifferent, unexcited."],
-    "sentences": ["I was hurt when my friend greeted me so nonchalantly."]
+    "definitions": [
+      "Indifferent, unexcited."
+    ],
+    "sentences": [
+      "I was hurt when my friend greeted me so nonchalantly."
+    ]
   },
   {
+    "id": 214,
     "word": "Obey",
-    "definitions": ["To follow orders or instructions."],
-    "sentences": ["My dog always obeys me when I ask her to sit."]
+    "definitions": [
+      "To follow orders or instructions."
+    ],
+    "sentences": [
+      "My dog always obeys me when I ask her to sit."
+    ]
   },
   {
+    "id": 215,
     "word": "Obtain",
-    "definitions": ["To get."],
-    "sentences": ["The spy obtained the secret codes we need."]
+    "definitions": [
+      "To get."
+    ],
+    "sentences": [
+      "The spy obtained the secret codes we need."
+    ]
   },
   {
+    "id": 216,
     "word": "Obvious",
-    "definitions": ["Easily understood."],
+    "definitions": [
+      "Easily understood."
+    ],
     "sentences": [
       "The large poster of Michael Jackson over her bed made it obvious who her favorite singer was."
     ]
   },
   {
+    "id": 217,
     "word": "Opponent",
-    "definitions": ["Someone on the opposite side for a game or contest."],
-    "sentences": ["The soccer player blocked her opponent’s shot at the goal."]
+    "definitions": [
+      "Someone on the opposite side for a game or contest."
+    ],
+    "sentences": [
+      "The soccer player blocked her opponent’s shot at the goal."
+    ]
   },
   {
+    "id": 218,
     "word": "Oppress",
-    "definitions": ["To unfairly burden."],
+    "definitions": [
+      "To unfairly burden."
+    ],
     "sentences": [
       "For the past ten generations the royal family has oppressed the peasants by keeping them in poverty."
     ]
   },
   {
+    "id": 219,
     "word": "Origin",
-    "definitions": ["The source; where something began."],
-    "sentences": ["The explorers are trying to find the origin of the Nile."]
+    "definitions": [
+      "The source; where something began."
+    ],
+    "sentences": [
+      "The explorers are trying to find the origin of the Nile."
+    ]
   },
   {
+    "id": 220,
     "word": "Paradigm",
-    "definitions": ["A typical example of something."],
+    "definitions": [
+      "A typical example of something."
+    ],
     "sentences": [
       "This work of art is a paradigm of the period; you’ll see many examples of it in the museum."
     ]
   },
   {
+    "id": 221,
     "word": "Parsimonious",
-    "definitions": ["Frugal, stingy."],
-    "sentences": ["The parsimonious woman only donated a dollar to charity."]
+    "definitions": [
+      "Frugal, stingy."
+    ],
+    "sentences": [
+      "The parsimonious woman only donated a dollar to charity."
+    ]
   },
   {
+    "id": 222,
     "word": "Partake",
-    "definitions": ["To join in."],
+    "definitions": [
+      "To join in."
+    ],
     "sentences": [
       "My leg was feeling much better, so I decided to partake in the soccer match."
     ]
   },
   {
+    "id": 223,
     "word": "Partial",
-    "definitions": ["Preferring one option over others."],
+    "definitions": [
+      "Preferring one option over others."
+    ],
     "sentences": [
       "We can get strawberry ice cream, but I’m actually more partial to chocolate."
     ]
   },
   {
+    "id": 224,
     "word": "Paucity",
-    "definitions": ["Something existing in very small amounts; scarcity."],
-    "sentences": ["During the drought, the town had a paucity of fresh water."]
+    "definitions": [
+      "Something existing in very small amounts; scarcity."
+    ],
+    "sentences": [
+      "During the drought, the town had a paucity of fresh water."
+    ]
   },
   {
+    "id": 225,
     "word": "Peak",
-    "definitions": ["The highest or most important point."],
-    "sentences": ["Winning the championship was the peak of his career."]
+    "definitions": [
+      "The highest or most important point."
+    ],
+    "sentences": [
+      "Winning the championship was the peak of his career."
+    ]
   },
   {
+    "id": 226,
     "word": "Peripheral",
-    "definitions": ["Located on the side or edge."],
+    "definitions": [
+      "Located on the side or edge."
+    ],
     "sentences": [
       "There are some peripheral fights going on at the outdoor concert."
     ]
   },
   {
+    "id": 227,
     "word": "Permeate",
-    "definitions": ["To penetrate or pass through."],
+    "definitions": [
+      "To penetrate or pass through."
+    ],
     "sentences": [
       "Let the maple syrup permeate your waffles before eating them."
     ]
   },
   {
+    "id": 228,
     "word": "Persist",
-    "definitions": ["To continue, especially when facing opposition."],
+    "definitions": [
+      "To continue, especially when facing opposition."
+    ],
     "sentences": [
       "I may have lost my last six games, but I will continue to persist trying to win."
     ]
   },
   {
+    "id": 229,
     "word": "Pertain",
-    "definitions": ["Relate."],
-    "sentences": ["How does your question pertain to the lecture?"]
+    "definitions": [
+      "Relate."
+    ],
+    "sentences": [
+      "How does your question pertain to the lecture?"
+    ]
   },
   {
+    "id": 230,
     "word": "Phase",
-    "definitions": ["A period or stage in a process."],
+    "definitions": [
+      "A period or stage in a process."
+    ],
     "sentences": [
       "In high school, I went through a phase where I only wore black clothes."
     ]
   },
   {
+    "id": 231,
     "word": "Poll",
-    "definitions": ["A record of opinions or votes."],
+    "definitions": [
+      "A record of opinions or votes."
+    ],
     "sentences": [
       "The polls show that my candidate is going to win the election."
     ]
   },
   {
+    "id": 232,
     "word": "Potent",
-    "definitions": ["Powerful."],
-    "sentences": ["Only take one sleeping pill since they’re very potent."]
+    "definitions": [
+      "Powerful."
+    ],
+    "sentences": [
+      "Only take one sleeping pill since they’re very potent."
+    ]
   },
   {
+    "id": 233,
     "word": "Pragmatic",
-    "definitions": ["Practical, sensible."],
+    "definitions": [
+      "Practical, sensible."
+    ],
     "sentences": [
       "Your boyfriend is too dramatic. I think you need a more pragmatic man."
     ]
   },
   {
+    "id": 234,
     "word": "Praise",
-    "definitions": ["To give approval or admiration."],
+    "definitions": [
+      "To give approval or admiration."
+    ],
     "sentences": [
       "The book is the best I’ve ever read; I can’t praise it enough."
     ]
   },
   {
+    "id": 235,
     "word": "Precede",
-    "definitions": ["To come before."],
+    "definitions": [
+      "To come before."
+    ],
     "sentences": [
       "The flower girls preceded the bride when they walked down the aisle."
     ]
   },
   {
+    "id": 236,
     "word": "Precise",
-    "definitions": ["Exact."],
+    "definitions": [
+      "Exact."
+    ],
     "sentences": [
       "When collecting data, it’s important that your measurements are very precise."
     ]
   },
   {
+    "id": 237,
     "word": "Prestigious",
-    "definitions": ["Having a high reputation."],
+    "definitions": [
+      "Having a high reputation."
+    ],
     "sentences": [
       "Harvard is one of the most prestigious colleges in the United States."
     ]
   },
   {
+    "id": 238,
     "word": "Prevalent",
-    "definitions": ["Widespread."],
+    "definitions": [
+      "Widespread."
+    ],
     "sentences": [
       "If more people don’t start washing their hands, disease will become more prevalent."
     ]
   },
   {
+    "id": 239,
     "word": "Primary",
-    "definitions": ["First; most important."],
-    "sentences": ["Maeve’s primary goal in life is to become a doctor."]
+    "definitions": [
+      "First; most important."
+    ],
+    "sentences": [
+      "Maeve’s primary goal in life is to become a doctor."
+    ]
   },
   {
+    "id": 240,
     "word": "Prior",
-    "definitions": ["Previous or earlier."],
-    "sentences": ["Prior to becoming a teacher, Elena worked as a book editor."]
+    "definitions": [
+      "Previous or earlier."
+    ],
+    "sentences": [
+      "Prior to becoming a teacher, Elena worked as a book editor."
+    ]
   },
   {
+    "id": 241,
     "word": "Proceed",
-    "definitions": ["To continue doing something."],
+    "definitions": [
+      "To continue doing something."
+    ],
     "sentences": [
       "I’m sorry for interrupting; please proceed with your speech."
     ]
   },
   {
+    "id": 242,
     "word": "Progeny",
-    "definitions": ["Offspring."],
-    "sentences": ["The dog’s progeny all have yellow fur."]
+    "definitions": [
+      "Offspring."
+    ],
+    "sentences": [
+      "The dog’s progeny all have yellow fur."
+    ]
   },
   {
+    "id": 243,
     "word": "Promote",
-    "definitions": ["To further to progress of something."],
+    "definitions": [
+      "To further to progress of something."
+    ],
     "sentences": [
       "I’m promoting this new indie movie so that more people will buy tickets to it."
     ]
   },
   {
+    "id": 244,
     "word": "Prosper",
-    "definitions": ["To do well."],
+    "definitions": [
+      "To do well."
+    ],
     "sentences": [
       "Dave hopes his new business will prosper and make him a millionaire."
     ]
   },
   {
+    "id": 245,
     "word": "Proximity",
-    "definitions": ["Nearness in time or space."],
+    "definitions": [
+      "Nearness in time or space."
+    ],
     "sentences": [
       "The twins hated to be apart, so they bought houses in close proximity to each other."
     ]
   },
   {
+    "id": 246,
     "word": "Quarrel",
-    "definitions": ["Disagreement or fight; to have an argument."],
-    "sentences": ["Nina and her boyfriend always quarrel over money."]
+    "definitions": [
+      "Disagreement or fight; to have an argument."
+    ],
+    "sentences": [
+      "Nina and her boyfriend always quarrel over money."
+    ]
   },
   {
+    "id": 247,
     "word": "Range",
     "definitions": [
       "The distance between two things, often the maximum and the minimum."
     ],
-    "sentences": ["The range of ages at the concert spanned from 12 to 65."]
+    "sentences": [
+      "The range of ages at the concert spanned from 12 to 65."
+    ]
   },
   {
+    "id": 248,
     "word": "Rank",
-    "definitions": ["An official position or station."],
-    "sentences": ["Archibald was promoted to the rank of first captain."]
+    "definitions": [
+      "An official position or station."
+    ],
+    "sentences": [
+      "Archibald was promoted to the rank of first captain."
+    ]
   },
   {
+    "id": 249,
     "word": "Rebuke",
-    "definitions": ["To sternly disapprove or reprimand."],
+    "definitions": [
+      "To sternly disapprove or reprimand."
+    ],
     "sentences": [
       "After staying out too late, Grace received a rebuke from her parents."
     ]
   },
   {
+    "id": 250,
     "word": "Recapitulate",
-    "definitions": ["To give a brief summary."],
+    "definitions": [
+      "To give a brief summary."
+    ],
     "sentences": [
       "At the end of his speech, the politician made sure to recapitulate his main points."
     ]
   },
   {
+    "id": 251,
     "word": "Recede",
-    "definitions": ["To retreat."],
+    "definitions": [
+      "To retreat."
+    ],
     "sentences": [
       "Two days after the flood, the seawater finally began to recede from our house."
     ]
   },
   {
+    "id": 252,
     "word": "Recommend",
-    "definitions": ["To present someone with confidence and approval."],
+    "definitions": [
+      "To present someone with confidence and approval."
+    ],
     "sentences": [
       "I need to ask Mr. Smith if he’ll recommend me for this leadership position."
     ]
   },
   {
+    "id": 253,
     "word": "Reform",
-    "definitions": ["To make changes that improve something."],
+    "definitions": [
+      "To make changes that improve something."
+    ],
     "sentences": [
       "Melanie’s father is in charge of reforming to school system."
     ]
   },
   {
+    "id": 254,
     "word": "Regulate",
     "definitions": [
       "To supervise or control a process so that it functions correctly."
@@ -1538,44 +2542,67 @@
     ]
   },
   {
+    "id": 255,
     "word": "Reinforce",
-    "definitions": ["To strengthen with added support."],
+    "definitions": [
+      "To strengthen with added support."
+    ],
     "sentences": [
       "The builders reinforced the house’s wooden frame with steel beams."
     ]
   },
   {
+    "id": 256,
     "word": "Reject",
-    "definitions": ["To say no to something that is offered."],
-    "sentences": ["Lydia rejected my invitation to the homecoming dance."]
+    "definitions": [
+      "To say no to something that is offered."
+    ],
+    "sentences": [
+      "Lydia rejected my invitation to the homecoming dance."
+    ]
   },
   {
+    "id": 257,
     "word": "Release",
-    "definitions": ["To free; to allow to be known."],
+    "definitions": [
+      "To free; to allow to be known."
+    ],
     "sentences": [
       "The CEO decided to release the company’s profits from last year."
     ]
   },
   {
+    "id": 258,
     "word": "Rely",
-    "definitions": ["To depend on."],
-    "sentences": ["I rely on coffee to get my through my mornings."]
+    "definitions": [
+      "To depend on."
+    ],
+    "sentences": [
+      "I rely on coffee to get my through my mornings."
+    ]
   },
   {
+    "id": 259,
     "word": "Reproach",
-    "definitions": ["To express disapproval or disappointment."],
+    "definitions": [
+      "To express disapproval or disappointment."
+    ],
     "sentences": [
       "The coach reproached the players for failing to play their best."
     ]
   },
   {
+    "id": 260,
     "word": "Require",
-    "definitions": ["To need for a specific purpose."],
+    "definitions": [
+      "To need for a specific purpose."
+    ],
     "sentences": [
       "The camping trip requires that every participant bring their own food and sleeping bag."
     ]
   },
   {
+    "id": 261,
     "word": "Resent",
     "definitions": [
       "To feel bitterness or anger towards someone or something."
@@ -1585,37 +2612,57 @@
     ]
   },
   {
+    "id": 262,
     "word": "Resign",
-    "definitions": ["To give up an office or position."],
+    "definitions": [
+      "To give up an office or position."
+    ],
     "sentences": [
       "Due to his declining health, the mayor decided to resign from office."
     ]
   },
   {
+    "id": 263,
     "word": "Resist",
-    "definitions": ["To withstand the effect of."],
-    "sentences": ["Resist the impulse to have ice cream for breakfast."]
+    "definitions": [
+      "To withstand the effect of."
+    ],
+    "sentences": [
+      "Resist the impulse to have ice cream for breakfast."
+    ]
   },
   {
+    "id": 264,
     "word": "Resolve",
-    "definitions": ["To come to a firm decision."],
+    "definitions": [
+      "To come to a firm decision."
+    ],
     "sentences": [
       "Matt resolved to get better grades next semester by studying every night."
     ]
   },
   {
+    "id": 265,
     "word": "Restrict",
-    "definitions": ["To confine or keep within limits."],
+    "definitions": [
+      "To confine or keep within limits."
+    ],
     "sentences": [
       "My doctor told me to restrict myself to one glass of wine a day."
     ]
   },
   {
+    "id": 266,
     "word": "Retain",
-    "definitions": ["To continue to do something or keep something."],
-    "sentences": ["I’ve decided to retain my normal hairstyle."]
+    "definitions": [
+      "To continue to do something or keep something."
+    ],
+    "sentences": [
+      "I’ve decided to retain my normal hairstyle."
+    ]
   },
   {
+    "id": 267,
     "word": "Retract",
     "definitions": [
       "1. To draw back in.",
@@ -1627,63 +2674,97 @@
     ]
   },
   {
+    "id": 268,
     "word": "Retrieve",
-    "definitions": ["To bring back."],
+    "definitions": [
+      "To bring back."
+    ],
     "sentences": [
       "Alexis got out of the car to retrieve the ball her little brother had thrown."
     ]
   },
   {
+    "id": 269,
     "word": "Rhetorical",
-    "definitions": ["Used just for style or impact."],
+    "definitions": [
+      "Used just for style or impact."
+    ],
     "sentences": [
       "You aren’t expected to actually answer rhetorical questions."
     ]
   },
   {
+    "id": 270,
     "word": "Rigid",
-    "definitions": ["Stiff; unyielding."],
+    "definitions": [
+      "Stiff; unyielding."
+    ],
     "sentences": [
       "The boys’ father was happy to see the base of the treehouse was rigid and sturdy."
     ]
   },
   {
+    "id": 271,
     "word": "Rotate",
-    "definitions": ["To turn."],
-    "sentences": ["Rotate the sculpture so I can see the other side."]
+    "definitions": [
+      "To turn."
+    ],
+    "sentences": [
+      "Rotate the sculpture so I can see the other side."
+    ]
   },
   {
+    "id": 272,
     "word": "Safeguard",
-    "definitions": ["Something that serves as protection or ensures safety."],
+    "definitions": [
+      "Something that serves as protection or ensures safety."
+    ],
     "sentences": [
       "A retirement fund is one way to safeguard your finances for the future."
     ]
   },
   {
+    "id": 273,
     "word": "Scrutinize",
-    "definitions": ["To very carefully examine."],
+    "definitions": [
+      "To very carefully examine."
+    ],
     "sentences": [
       "The judges were looking for perfection, so they scrutinized every entry."
     ]
   },
   {
+    "id": 274,
     "word": "Section",
-    "definitions": ["A part of the whole."],
-    "sentences": ["This section of the stadium dressed completely in red."]
+    "definitions": [
+      "A part of the whole."
+    ],
+    "sentences": [
+      "This section of the stadium dressed completely in red."
+    ]
   },
   {
+    "id": 275,
     "word": "Select",
-    "definitions": ["To choose."],
-    "sentences": ["Jane selected a blue dress to wear to the wedding."]
+    "definitions": [
+      "To choose."
+    ],
+    "sentences": [
+      "Jane selected a blue dress to wear to the wedding."
+    ]
   },
   {
+    "id": 276,
     "word": "Sequence",
-    "definitions": ["Things that follow each other in a certain order."],
+    "definitions": [
+      "Things that follow each other in a certain order."
+    ],
     "sentences": [
       "Librarians need to know how order books in the correct sequence."
     ]
   },
   {
+    "id": 277,
     "word": "Severe",
     "definitions": [
       "1. Harsh or strict.",
@@ -1695,150 +2776,227 @@
     ]
   },
   {
+    "id": 278,
     "word": "Shallow",
-    "definitions": ["Not deep."],
+    "definitions": [
+      "Not deep."
+    ],
     "sentences": [
       "You don’t need to worry about getting your dress wet. The water is very shallow here."
     ]
   },
   {
+    "id": 279,
     "word": "Shelter",
-    "definitions": ["To protect from something harmful."],
-    "sentences": ["The empty barn gave the men shelter during the storm."]
+    "definitions": [
+      "To protect from something harmful."
+    ],
+    "sentences": [
+      "The empty barn gave the men shelter during the storm."
+    ]
   },
   {
+    "id": 280,
     "word": "Shrink",
-    "definitions": ["To become smaller."],
-    "sentences": ["Hopefully this cream will cause my scar to shrink."]
+    "definitions": [
+      "To become smaller."
+    ],
+    "sentences": [
+      "Hopefully this cream will cause my scar to shrink."
+    ]
   },
   {
+    "id": 281,
     "word": "Significant",
-    "definitions": ["Important, noteworthy."],
+    "definitions": [
+      "Important, noteworthy."
+    ],
     "sentences": [
       "The Gettysburg Address was a significant event during the Civil War."
     ]
   },
   {
+    "id": 282,
     "word": "Source",
-    "definitions": ["A person, place, or thing where something was obtained."],
+    "definitions": [
+      "A person, place, or thing where something was obtained."
+    ],
     "sentences": [
       "You shouldn’t use Wikipedia as a source when writing school papers."
     ]
   },
   {
+    "id": 283,
     "word": "Sparse",
-    "definitions": ["Thinly scattered."],
+    "definitions": [
+      "Thinly scattered."
+    ],
     "sentences": [
       "The farm was almost empty; there were just a few sparse trees here and there."
     ]
   },
   {
+    "id": 284,
     "word": "Specify",
-    "definitions": ["To clearly indicate which one."],
+    "definitions": [
+      "To clearly indicate which one."
+    ],
     "sentences": [
       "You need to specify which size shirt you want before I can order it."
     ]
   },
   {
+    "id": 285,
     "word": "Speculate",
-    "definitions": ["To form a theory without strong evidence."],
+    "definitions": [
+      "To form a theory without strong evidence."
+    ],
     "sentences": [
       "My sister loves to speculate on the private lives of celebrities."
     ]
   },
   {
+    "id": 286,
     "word": "Solitary",
-    "definitions": ["Alone; without others."],
+    "definitions": [
+      "Alone; without others."
+    ],
     "sentences": [
       "The hermit lives a solitary existence deep in the mountains."
     ]
   },
   {
+    "id": 287,
     "word": "Somber",
-    "definitions": ["Gloomy; depressing."],
+    "definitions": [
+      "Gloomy; depressing."
+    ],
     "sentences": [
       "After losing the competition, the chess players were very somber."
     ]
   },
   {
+    "id": 288,
     "word": "Soothe",
-    "definitions": ["To calm or comfort."],
-    "sentences": ["The mother sang a lullaby to soothe her crying baby."]
+    "definitions": [
+      "To calm or comfort."
+    ],
+    "sentences": [
+      "The mother sang a lullaby to soothe her crying baby."
+    ]
   },
   {
+    "id": 289,
     "word": "Squalid",
-    "definitions": ["Filthy and unpleasant."],
-    "sentences": ["The shelter was squalid and overcrowded."]
+    "definitions": [
+      "Filthy and unpleasant."
+    ],
+    "sentences": [
+      "The shelter was squalid and overcrowded."
+    ]
   },
   {
+    "id": 290,
     "word": "Stable",
-    "definitions": ["Unlikely to change or fail."],
+    "definitions": [
+      "Unlikely to change or fail."
+    ],
     "sentences": [
       "We’re lucky to live in a country with such a stable government."
     ]
   },
   {
+    "id": 291,
     "word": "Stagnant",
-    "definitions": ["Sluggish, showing little movement."],
+    "definitions": [
+      "Sluggish, showing little movement."
+    ],
     "sentences": [
       "With few new jobs created, the economy has remained stagnant for the past five years."
     ]
   },
   {
+    "id": 292,
     "word": "Strategy",
-    "definitions": ["A plan to reach a desired outcome."],
+    "definitions": [
+      "A plan to reach a desired outcome."
+    ],
     "sentences": [
       "The football team will need a good strategy to win the game tomorrow."
     ]
   },
   {
+    "id": 293,
     "word": "Subsequent",
-    "definitions": ["Coming after something in time."],
+    "definitions": [
+      "Coming after something in time."
+    ],
     "sentences": [
       "The first king was a good ruler, but subsequent kings have all been corrupt."
     ]
   },
   {
+    "id": 294,
     "word": "Substitute",
-    "definitions": ["A person or thing acting in place of another."],
+    "definitions": [
+      "A person or thing acting in place of another."
+    ],
     "sentences": [
       "If you don’t have sugar, honey makes a good substitute for this recipe."
     ]
   },
   {
+    "id": 295,
     "word": "Subtle",
-    "definitions": ["Difficult to notice right away."],
+    "definitions": [
+      "Difficult to notice right away."
+    ],
     "sentences": [
       "Maya’s perfume was very subtle; you had to get close to her to smell it."
     ]
   },
   {
+    "id": 296,
     "word": "Sufficient",
-    "definitions": ["Enough to serve a particular purpose."],
-    "sentences": ["Make sure you have sufficient food for the camping trip."]
+    "definitions": [
+      "Enough to serve a particular purpose."
+    ],
+    "sentences": [
+      "Make sure you have sufficient food for the camping trip."
+    ]
   },
   {
+    "id": 297,
     "word": "Summarize",
-    "definitions": ["To briefly give the main points."],
+    "definitions": [
+      "To briefly give the main points."
+    ],
     "sentences": [
       "The class didn’t have time to read the book, so the professor summarized it for them."
     ]
   },
   {
+    "id": 298,
     "word": "Supervise",
-    "definitions": ["To oversee work or a process."],
+    "definitions": [
+      "To oversee work or a process."
+    ],
     "sentences": [
       "My dad didn’t think we were old enough to build the fort on our own, so he supervised us."
     ]
   },
   {
+    "id": 299,
     "word": "Supplant",
-    "definitions": ["To take the place of something else."],
+    "definitions": [
+      "To take the place of something else."
+    ],
     "sentences": [
       "The king was supplanted by his treacherous younger brother who locked him in the dungeon."
     ]
   },
   {
+    "id": 300,
     "word": "Suspend",
     "definitions": [
       "1. To temporarily stop.",
@@ -1850,6 +3008,7 @@
     ]
   },
   {
+    "id": 301,
     "word": "Suspicious",
     "definitions": [
       "Having the belief that someone is doing something dishonest or illegal."
@@ -1859,51 +3018,77 @@
     ]
   },
   {
+    "id": 302,
     "word": "Sustain",
-    "definitions": ["To keep going."],
+    "definitions": [
+      "To keep going."
+    ],
     "sentences": [
       "I stopped trying to sustain the friendship after he made fun of how I looked."
     ]
   },
   {
+    "id": 303,
     "word": "Symbolic",
-    "definitions": ["Serving as a symbol."],
-    "sentences": ["A cross is symbolic of Christianity."]
+    "definitions": [
+      "Serving as a symbol."
+    ],
+    "sentences": [
+      "A cross is symbolic of Christianity."
+    ]
   },
   {
+    "id": 304,
     "word": "Technical",
-    "definitions": ["Relating to a specific subject or craft."],
+    "definitions": [
+      "Relating to a specific subject or craft."
+    ],
     "sentences": [
       "The laptop manual is full of technical terms only a computer expert can understand."
     ]
   },
   {
+    "id": 305,
     "word": "Terminal",
-    "definitions": ["Situated at the end."],
-    "sentences": ["Everyone on the train must get off at the terminal stop."]
+    "definitions": [
+      "Situated at the end."
+    ],
+    "sentences": [
+      "Everyone on the train must get off at the terminal stop."
+    ]
   },
   {
+    "id": 306,
     "word": "Tolerate",
-    "definitions": ["To put up with."],
+    "definitions": [
+      "To put up with."
+    ],
     "sentences": [
       "I tolerate the rude man since he is my husband’s best friend."
     ]
   },
   {
+    "id": 307,
     "word": "Transfer",
-    "definitions": ["To move from one place to another."],
+    "definitions": [
+      "To move from one place to another."
+    ],
     "sentences": [
       "Ben’s work is going to transfer him from Chicago to Detroit."
     ]
   },
   {
+    "id": 308,
     "word": "Transition",
-    "definitions": ["Changing from one state or condition to another."],
+    "definitions": [
+      "Changing from one state or condition to another."
+    ],
     "sentences": [
       "The transition from student to employee can often take awhile to get used to."
     ]
   },
   {
+    "id": 309,
     "word": "Transparent",
     "definitions": [
       "1. See-through material.",
@@ -1915,66 +3100,107 @@
     ]
   },
   {
+    "id": 310,
     "word": "Tuition",
-    "definitions": ["The fee for instruction at a school."],
-    "sentences": ["College tuition prices have gone up in recent decades."]
+    "definitions": [
+      "The fee for instruction at a school."
+    ],
+    "sentences": [
+      "College tuition prices have gone up in recent decades."
+    ]
   },
   {
+    "id": 311,
     "word": "Unobtrusive",
-    "definitions": ["Not attracting attention."],
+    "definitions": [
+      "Not attracting attention."
+    ],
     "sentences": [
       "The prince’s bodyguards had mastered the art of being unobtrusive."
     ]
   },
   {
+    "id": 312,
     "word": "Unscathed",
-    "definitions": ["Unharmed."],
-    "sentences": ["Ian was lucky to walk away from the car crash unscathed."]
+    "definitions": [
+      "Unharmed."
+    ],
+    "sentences": [
+      "Ian was lucky to walk away from the car crash unscathed."
+    ]
   },
   {
+    "id": 313,
     "word": "Upbeat",
-    "definitions": ["Happy; optimistic."],
+    "definitions": [
+      "Happy; optimistic."
+    ],
     "sentences": [
       "Even when she’s having a bad day, my mom always has an upbeat attitude."
     ]
   },
   {
+    "id": 314,
     "word": "Unjust",
-    "definitions": ["Unfair."],
+    "definitions": [
+      "Unfair."
+    ],
     "sentences": [
       "Since I tried my hardest on the exam, I felt my teacher’s criticism of me was unjust."
     ]
   },
   {
+    "id": 315,
     "word": "Vacillate",
-    "definitions": ["To waver or be indecisive."],
+    "definitions": [
+      "To waver or be indecisive."
+    ],
     "sentences": [
       "She vacillated between the two dresses before finally deciding to wear a skirt."
     ]
   },
   {
+    "id": 316,
     "word": "Valid",
-    "definitions": ["Just; well-founded."],
+    "definitions": [
+      "Just; well-founded."
+    ],
     "sentences": [
       "The soldiers had valid concerns about the battles they’d be facing."
     ]
   },
   {
+    "id": 317,
     "word": "Vanish",
-    "definitions": ["To disappear quickly."],
-    "sentences": ["The plane vanished behind the clouds."]
+    "definitions": [
+      "To disappear quickly."
+    ],
+    "sentences": [
+      "The plane vanished behind the clouds."
+    ]
   },
   {
+    "id": 318,
     "word": "Vary",
-    "definitions": ["To be different from something else in a group."],
-    "sentences": [""]
+    "definitions": [
+      "To be different from something else in a group."
+    ],
+    "sentences": [
+      ""
+    ]
   },
   {
+    "id": 319,
     "word": "Verdict",
-    "definitions": ["A judgement or decision."],
-    "sentences": ["The jury delivered a guilty verdict."]
+    "definitions": [
+      "A judgement or decision."
+    ],
+    "sentences": [
+      "The jury delivered a guilty verdict."
+    ]
   },
   {
+    "id": 320,
     "word": "Vestige",
     "definitions": [
       "A small trace of something that is disappearing or has already disappeared."
@@ -1984,42 +3210,73 @@
     ]
   },
   {
+    "id": 321,
     "word": "Vial",
-    "definitions": ["A small container used to hold liquids."],
+    "definitions": [
+      "A small container used to hold liquids."
+    ],
     "sentences": [
       "The chemist carefully filled the vial with the bubbling solution."
     ]
   },
   {
+    "id": 322,
     "word": "Vilify",
-    "definitions": ["To speak poorly of; to slander."],
-    "sentences": ["Mark was vilified by his angry ex-girlfriend."]
+    "definitions": [
+      "To speak poorly of; to slander."
+    ],
+    "sentences": [
+      "Mark was vilified by his angry ex-girlfriend."
+    ]
   },
   {
+    "id": 323,
     "word": "Voluminous",
-    "definitions": ["Taking up a lot of space."],
-    "sentences": ["The puffy wedding dress had voluminous sleeves."]
+    "definitions": [
+      "Taking up a lot of space."
+    ],
+    "sentences": [
+      "The puffy wedding dress had voluminous sleeves."
+    ]
   },
   {
+    "id": 324,
     "word": "Whereas",
-    "definitions": ["On the contrary."],
+    "definitions": [
+      "On the contrary."
+    ],
     "sentences": [
       "I always save my money whereas my brother is constantly in debt."
     ]
   },
   {
+    "id": 325,
     "word": "Wholly",
-    "definitions": ["Completely."],
-    "sentences": ["The monk is wholly devoted to his faith."]
+    "definitions": [
+      "Completely."
+    ],
+    "sentences": [
+      "The monk is wholly devoted to his faith."
+    ]
   },
   {
+    "id": 326,
     "word": "Widespread",
-    "definitions": ["Occurring over a large region."],
-    "sentences": ["There is widespread poverty across that country."]
+    "definitions": [
+      "Occurring over a large region."
+    ],
+    "sentences": [
+      "There is widespread poverty across that country."
+    ]
   },
   {
+    "id": 327,
     "word": "Wilt",
-    "definitions": ["To droop and become limp."],
-    "sentences": ["Plants will wilt if you don’t water them regularly."]
+    "definitions": [
+      "To droop and become limp."
+    ],
+    "sentences": [
+      "Plants will wilt if you don’t water them regularly."
+    ]
   }
 ]
