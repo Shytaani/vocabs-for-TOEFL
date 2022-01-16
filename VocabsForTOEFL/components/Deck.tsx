@@ -22,8 +22,8 @@ const styles = StyleSheet.create({
 });
 
 export default function Deck({ cards }: { cards: Card[] }) {
-  const first: number = 0;
-  const last: number = 326;
+  const first: number = 1;
+  const last: number = 327;
 
   const [id, setId] = useState<number>(first);
 
@@ -108,14 +108,14 @@ export default function Deck({ cards }: { cards: Card[] }) {
   return (
     <>
       <View>
-        {cards.map((card: Card, i: number) => {
-          if (i < id || i > (id + 1)) {
+        {cards.map((card: Card) => {
+          if (card.id < id || card.id > (id + 1)) {
             return null;
           }
-          if (i === id) {
+          if (card.id === id) {
             return (
               <PanGestureHandler
-                key={card.word}
+                key={card.id}
                 onGestureEvent={handlePanGestureEvent}
                 onEnded={onPanGestureRelease}
               >
@@ -130,9 +130,9 @@ export default function Deck({ cards }: { cards: Card[] }) {
               </PanGestureHandler>
             );
           }
-          if (i === (id + 1)) {
+          if (card.id === (id + 1)) {
             return (
-              <View key={card.word} style={styles.remainingCard}>
+              <View key={card.id} style={styles.remainingCard}>
                 <FlashCard card={card} />
               </View>
             );
