@@ -106,8 +106,8 @@ export default function Deck({ cards }: { cards: Card[] }) {
   };
 
   return (
-    <>
-      <View>
+    <View style={{ alignItems: 'center'}}>
+      <View style={{ marginVertical: 50 }}>
         {cards.map((card: Card) => {
           if (card.id < id || card.id > (id + 1)) {
             return null;
@@ -145,6 +145,6 @@ export default function Deck({ cards }: { cards: Card[] }) {
         buttonStyle={styles.button}
         onPress={resetDeck}
       />
-    </>
+    </View>
   );
 }
