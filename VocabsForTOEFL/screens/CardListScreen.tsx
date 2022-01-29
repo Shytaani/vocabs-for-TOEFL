@@ -1,8 +1,7 @@
 import React from 'react';
 import { SafeAreaView, StyleSheet } from 'react-native';
-import Deck from '../components/Deck';
+import CardList from '../components/CardList';
 import ScreenHeader from '../components/ScreenHeader';
-import { getCards } from '../services/CardsService';
 
 const styles = StyleSheet.create({
   container: {
@@ -10,12 +9,12 @@ const styles = StyleSheet.create({
   },
 });
 
-export default function CardsScreen() {
+export default function CardListScreen() {
   return (
     <>
       <ScreenHeader />
       <SafeAreaView style={styles.container}>
-        <Deck cards={getCards()} />
+        <CardList />
       </SafeAreaView>
     </>
   );
