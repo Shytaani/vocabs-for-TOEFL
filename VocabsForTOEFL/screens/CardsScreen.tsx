@@ -10,12 +10,13 @@ const styles = StyleSheet.create({
   },
 });
 
-export default function CardsScreen() {
+export default function CardsScreen({ route }) {
+  const { startFrom }: { startFrom: number } = route.params;
   return (
     <>
       <ScreenHeader />
       <SafeAreaView style={styles.container}>
-        <Deck cards={getCards()} />
+        <Deck cards={getCards()} startFrom={startFrom} />
       </SafeAreaView>
     </>
   );

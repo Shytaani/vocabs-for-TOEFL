@@ -11,7 +11,7 @@ export default function App() {
     <NavigationContainer>
       <Drawer.Navigator initialRouteName="Flashcards" screenOptions={{headerShown: false}}>
         <Drawer.Screen name="List" component={CardListScreen} />
-        <Drawer.Screen name="Flashcards" component={CardsScreen}/>
+        <Drawer.Screen name="Flashcards" component={CardsScreen} initialParams={{ startFrom: 0 }}/>
       </Drawer.Navigator>
     </NavigationContainer>
   );

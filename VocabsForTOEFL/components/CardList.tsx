@@ -1,3 +1,4 @@
+import { useNavigation } from '@react-navigation/native';
 import React, { useEffect, useState } from 'react';
 import { FlatList } from 'react-native';
 import { ListItem } from 'react-native-elements';
@@ -15,9 +16,11 @@ export default function CardList() {
     fetchCardList();
   }, []);
 
+  const { navigate } = useNavigation();
+
   const listItem = ({ item }: { item: Card }) => {
     return (
-      <ListItem bottomDivider>
+      <ListItem bottomDivider onPress={() => navigate('Flashcards', { startFrom: item.id })}>
         <ListItem.Content>
           <ListItem.Title>{item.word}</ListItem.Title>
         </ListItem.Content>

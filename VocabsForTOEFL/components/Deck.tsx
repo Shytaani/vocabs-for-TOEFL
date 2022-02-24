@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
   },
 });
 
-export default function Deck({ cards }: { cards: Card[] }) {
+export default function Deck({ cards, startFrom }: { cards: Card[], startFrom?: number }) {
   const first: number = 1;
   const last: number = 327;
 
@@ -29,11 +29,15 @@ export default function Deck({ cards }: { cards: Card[] }) {
 
   useEffect(() => {
     const fetchCardId = async () => {
-      const current: number = await getCurrentCardId();
-      setId(current);
+      if (startFrom) {
+        setId(startFrom);
+      } else {
+        const current: number = await getCurrentCardId();
+        setId(current);
+      }
     };
     fetchCardId();
-  }, []);
+  }, [startFrom]);
 
   useEffect(() => {
     const saveCardId = async () => {
