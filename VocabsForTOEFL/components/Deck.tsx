@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import { Animated, Dimensions, GestureResponderEvent, StyleSheet, View } from 'react-native';
+import { Animated, GestureResponderEvent, StyleSheet, useWindowDimensions, View } from 'react-native';
 import { Button } from 'react-native-elements';
 import { HandlerStateChangeEvent, PanGestureHandler } from 'react-native-gesture-handler';
 import { getCurrentCardId, saveCurrentCardId } from '../services/CardsService';
@@ -7,6 +7,12 @@ import { Card } from '../types/Card';
 import FlashCard from './FlashCard';
 
 const styles = StyleSheet.create({
+  cardsContainer: {
+    marginVertical: 50,
+  },
+  cardsContainerSmall: {
+    marginVertical: 20,
+  },
   remainingCard: {
     position: 'absolute',
     top: 2,
@@ -20,6 +26,8 @@ const styles = StyleSheet.create({
     height: 50,
   },
 });
+
+const WINDOW_THRESHOLD_SMALL = 812;
 
 export default function Deck({ cards, startFrom }: { cards: Card[], startFrom?: number }) {
   const first: number = 1;
@@ -70,7 +78,7 @@ export default function Deck({ cards, startFrom }: { cards: Card[], startFrom?: 
     { useNativeDriver: true }
   );
 
-  const screenWidth: number = Dimensions.get('window').width;
+  const screenWidth: number = useWindowDimensions().width;
   const swipeThreshold: number = screenWidth * 0.25;
   enum DIRECTION { LEFT = 'left', RIGHT = 'right' }
 
@@ -111,7 +119,7 @@ export default function Deck({ cards, startFrom }: { cards: Card[], startFrom?: 
 
   return (
     <View style={{ alignItems: 'center'}}>
-      <View style={{ marginVertical: 50 }}>
+      <View style={ useWindowDimensions().height < WINDOW_THRESHOLD_SMALL ? styles.cardsContainerSmall : styles.cardsContainer}>
         {cards.map((card: Card) => {
           if (card.id < id || card.id > (id + 1)) {
             return null;
