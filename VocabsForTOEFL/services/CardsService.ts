@@ -1,16 +1,22 @@
 import { Card } from '../types/Card';
-import cards from '../assets/card-contents.json';
+// import cards from '../assets/card-contents.json';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import axios from 'axios';
 
-export function getCards(): Card[] {
+const apiDomain = 'https://api.vocabs-for-toefl.com';
+// const apiDomain = 'http://localhost:80';
+
+export async function getCards(): Promise<Card[]> {
+  const cards: Card[] = await axios.get(apiDomain + '/v1/cards')
+    .then(res => res.data)
+    .catch(err => console.error(err));
   return cards;
 }
 
-export function getCard(id: number): Card {
-  const result = cards.find(card => card.id === id);
-  if (result === undefined) {
-    return cards[0];
-  }
+export async function getCard(id: number): Promise<Card> {
+  const result: Card = await axios.get(apiDomain + `/v1/card/${id}`)
+    .then(res => res.data)
+    .catch(err => console.error(err));
   return result;
 }
 

@@ -10,8 +10,9 @@ export default function CardList() {
   const [deck, setDeck] = useState<Card[]>([]);
 
   useEffect(() => {
-    const fetchCardList = () => {
-      setDeck(getCards());
+    const fetchCardList = async () => {
+      const cards: Card[] = await getCards();
+      setDeck(cards);
     };
     fetchCardList();
   }, []);
